@@ -1,6 +1,46 @@
-# RAGWitness: reviewer replication package
+# RAGWitness
 
-Supporting code and retained evidence for **Forensic Observability for Retrieval-Augmented Generation Systems Under Prompt Injection Attacks** by G. Aliko, K. O. Peasah, K. Owusu-Agyeman, and L. A. Banning. Prepared for submission; no acceptance or review status is claimed.
+**Forensic observability for retrieval-augmented generation under prompt injection.**
+
+RAGWitness studies what a retrieval-augmented generation (RAG) system should preserve so that an investigator can examine a suspected prompt-injection incident after it occurs. Ordinary operational traces may show a query and response while omitting the retrieved evidence, assembled prompt, generation settings, or independently verifiable integrity information needed for investigation.
+
+The framework defines five logging levels and evaluates them against seven forensic questions grounded in the Digital Forensic Research Workshop (DFRWS) investigative model. It connects the evidence available at each level with its storage cost and supports offline examination of the preserved artifacts.
+
+## How it works
+
+RAGWitness records progressively richer artifacts during retrieval and generation, then reconstructs the incident from the saved evidence:
+
+| Level | Evidence added to the preceding level |
+|---|---|
+| L1 | User query and generated response |
+| L2 | Retrieved chunk identifiers and ranks |
+| L3 | Retrieval scores and chunk metadata, including source URLs |
+| L4 | Retrieved text and per-chunk content hashes |
+| L5 | Full assembled prompt, generation settings, and external timestamp anchoring |
+
+Hash-chained event logs support checking the recorded sequence. RFC 3161 external timestamp anchoring adds an independent integrity check: regenerating a locally consistent chain does not make the modified bytes match an existing external anchor. Source identification uses observed query/retrieval artifacts and a trusted clean corpus reference; evaluator labels are used separately to score predictions.
+
+The research focuses on evidence preservation and investigative capability. Its components support investigation rather than providing a new prompt-injection prevention algorithm.
+
+## What the evaluation shows
+
+The main evaluation covers **90 controlled runs**: five direct-injection scenarios, five indirect-injection scenarios, and eight benign baselines, each evaluated at five logging levels. The reference corpus contains **15,482 chunks** from Ghanaian parliamentary Hansards.
+
+- **Evidence availability has a measurable storage cost.** Level 2 supports the reported candidate-source attribution capability at **1.19×** the fixed Level 1 mean storage. Level 5 covers the full defined forensic rubric at **7.23×**.
+- **Provenance and causation are different questions.** In the evaluated fixed-snapshot, additive-poisoning setting, a retrieved identifier absent from the clean reference can identify a candidate source without preserving its text. Membership alone does not prove malicious intent or causal influence.
+- **Retrieval creates a visibility boundary.** Increasing retrieval-log detail cannot identify an adversarial document that never appears in the retrieved evidence. The evaluated retrieval-evasion case motivates complementary ingestion-time records.
+- **External anchoring strengthens integrity verification.** The tested hash-chain and timestamp design detects the five evaluated post-hoc tamper categories, including full chain regeneration that defeats hash chaining alone.
+
+These findings are bounded by the evaluated scenarios and logging rubric. Detailed measurement definitions, statistical qualifications, retained-token availability, and auxiliary experiments are documented in [the reproduction guide](docs/REPRODUCTION.md).
+
+## Paper and authors
+
+**Forensic Observability for Retrieval-Augmented Generation Systems Under Prompt Injection Attacks**  
+G. Aliko, K. O. Peasah, K. Owusu-Agyeman, and L. A. Banning.
+
+This repository accompanies the manuscript prepared for IEEE Transactions on Information Forensics and Security (TIFS) and arXiv. A public manuscript link and publication details will be added when available.
+
+[GitHub repository](https://github.com/AlikoGrace/RAGWitness) · [Detailed reproduction guide](docs/REPRODUCTION.md) · [Software citation](CITATION.cff)
 
 ## Start here: reproduce saved results without models
 
