@@ -1,0 +1,97 @@
+{
+  "reference_level": 5,
+  "n_total_runs": 60,
+  "configs_tested": [
+    "A10_no_integrity",
+    "A6_no_full_prompt",
+    "A7_no_retrieved_text",
+    "A8_no_document_hashes",
+    "A9_no_generation_params",
+    "L5_reference"
+  ],
+  "summary_by_config": {
+    "A10_no_integrity": {
+      "n": 10,
+      "ec_mean": 1.0,
+      "aa_mean": 0.9,
+      "rf_mean": 1.0,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    },
+    "A6_no_full_prompt": {
+      "n": 10,
+      "ec_mean": 0.7143,
+      "aa_mean": 0.9,
+      "rf_mean": 0.8571,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    },
+    "A7_no_retrieved_text": {
+      "n": 10,
+      "ec_mean": 1.0,
+      "aa_mean": 0.9,
+      "rf_mean": 1.0,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    },
+    "A8_no_document_hashes": {
+      "n": 10,
+      "ec_mean": 1.0,
+      "aa_mean": 0.9,
+      "rf_mean": 1.0,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    },
+    "A9_no_generation_params": {
+      "n": 10,
+      "ec_mean": 0.8571,
+      "aa_mean": 0.9,
+      "rf_mean": 0.8571,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    },
+    "L5_reference": {
+      "n": 10,
+      "ec_mean": 1.0,
+      "aa_mean": 0.9,
+      "rf_mean": 1.0,
+      "direct_aa": 1.0,
+      "indirect_aa": 0.8
+    }
+  },
+  "deltas_vs_l5_reference": {
+    "A10_no_integrity": {
+      "delta_ec": 0.0,
+      "delta_aa": 0.0,
+      "delta_rf": 0.0
+    },
+    "A6_no_full_prompt": {
+      "delta_ec": -0.2857,
+      "delta_aa": 0.0,
+      "delta_rf": -0.1429
+    },
+    "A7_no_retrieved_text": {
+      "delta_ec": 0.0,
+      "delta_aa": 0.0,
+      "delta_rf": 0.0
+    },
+    "A8_no_document_hashes": {
+      "delta_ec": 0.0,
+      "delta_aa": 0.0,
+      "delta_rf": 0.0
+    },
+    "A9_no_generation_params": {
+      "delta_ec": -0.1429,
+      "delta_aa": 0.0,
+      "delta_rf": -0.1429
+    }
+  },
+  "config_descriptions": {
+    "A6_no_full_prompt": "L5 without system prompt logging (log_full_prompt=False)",
+    "A7_no_retrieved_text": "L5 without chunk text logging (log_retrieved_text=False)",
+    "A8_no_document_hashes": "L5 without document SHA-256 hashes (log_document_hashes=False)",
+    "A9_no_generation_params": "L5 without model/temperature params (log_generation_params=False)",
+    "A10_no_integrity": "L5 without hash chain / integrity (log_integrity_details=False)",
+    "L5_reference": "Standard L5 (all fields enabled)"
+  }
+}

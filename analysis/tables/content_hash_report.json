@@ -1,0 +1,23 @@
+{
+  "M0_clean": {
+    "description": "Normal run, no corpus modification",
+    "verified": true,
+    "checked": 5,
+    "mismatches": []
+  },
+  "M1_tampered": {
+    "description": "Run at L4, then one chunk text modified in ChromaDB",
+    "tampered_chunk_id": "dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74",
+    "verified": false,
+    "checked": 5,
+    "mismatches": [
+      {
+        "chunk_id": "dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74",
+        "logged_hash": "4173a18cb8cc6e02cf037b478be85dedab1c870d4ba1882c99d06eb076129706",
+        "recomputed_hash": "b830de857a61eac54b15944a97d44bde08537fa665d666d40abb190a5ea3b56c",
+        "status": "MODIFIED"
+      }
+    ]
+  },
+  "detection_result": "DETECTED"
+}

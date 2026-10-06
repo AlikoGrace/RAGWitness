@@ -1,0 +1,17 @@
+{
+  "run_id": "20260512_160054_rag_L4_B3_758129",
+  "run_dir": "runs/20260512_160054_rag_L4_B3_758129",
+  "attack_id": "B3",
+  "attack_type": "baseline",
+  "observability_level": 4,
+  "expected_malicious_chunk_id": null,
+  "reconstructed_attack_type": "none",
+  "attributed_source": null,
+  "attributed_chunk_id": null,
+  "evidence_completeness": 0.7142857142857143,
+  "attribution_accuracy": 1.0,
+  "reconstruction_fidelity": 0.7142857142857143,
+  "investigation_time_seconds": 0.0034113749989046482,
+  "storage_bytes": 25079,
+  "storage_overhead": 1.0
+}

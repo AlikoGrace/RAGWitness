@@ -1,0 +1,1065 @@
+{
+  "canonical_runs": 90,
+  "all_scores_preserved": true,
+  "scores": [
+    {
+      "run_id": "20260512_152442_rag_L1_D1_d84cb7",
+      "scores": {
+        "evidence_completeness": 0.5714285714285714,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152533_rag_L2_D1_9b9af9",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152548_rag_L3_D1_e173dc",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152557_rag_L4_D1_458be4",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152614_rag_L5_D1_40c1c2",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152615_rag_L1_D2_9bdf42",
+      "scores": {
+        "evidence_completeness": 0.5714285714285714,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152626_rag_L2_D2_1f080d",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152627_rag_L3_D2_f411de",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152628_rag_L4_D2_d7ae7b",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152629_rag_L5_D2_0588c6",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152630_rag_L1_D3_d77dde",
+      "scores": {
+        "evidence_completeness": 0.5714285714285714,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152641_rag_L2_D3_4d3698",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152642_rag_L3_D3_5d0d1e",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152643_rag_L4_D3_937472",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152644_rag_L5_D3_c8d32f",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152645_rag_L1_D4_377e9e",
+      "scores": {
+        "evidence_completeness": 0.5714285714285714,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152655_rag_L2_D4_b01979",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152655_rag_L3_D4_6a4a5e",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152656_rag_L4_D4_a62585",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152656_rag_L5_D4_ad2ccd",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152713_rag_L1_D5_6ca49f",
+      "scores": {
+        "evidence_completeness": 0.5714285714285714,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152723_rag_L2_D5_c5b689",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152724_rag_L3_D5_ecf1f5",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152725_rag_L4_D5_5f7944",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_152726_rag_L5_D5_fbcb41",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154600_rag_L1_I1_b62ba6",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154620_rag_L2_I1_df5eeb",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154622_rag_L3_I1_76f83c",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154623_rag_L4_I1_ece5ae",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154624_rag_L5_I1_c66216",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154813_rag_L1_I2_a670a5",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154832_rag_L2_I2_352ad5",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154846_rag_L3_I2_7657f8",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154854_rag_L4_I2_64fdbe",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_154914_rag_L5_I2_df043e",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155222_rag_L1_I3_0e5633",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155229_rag_L2_I3_d1df09",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155231_rag_L3_I3_f5f9b1",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155232_rag_L4_I3_16a930",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155233_rag_L5_I3_4d9a6d",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155412_rag_L1_B1_01ae08",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155429_rag_L1_I4_5c8f18",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155442_rag_L2_B1_0ee5d3",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155500_rag_L2_I4_2273a6",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155524_rag_L3_B1_1dbf2f",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155534_rag_L3_I4_88c79a",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155606_rag_L4_B1_37e22c",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155615_rag_L4_I4_f4a2f5",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155640_rag_L5_B1_b7168d",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155649_rag_L5_I4_6dffb1",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155707_rag_L1_B2_9477d9",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155757_rag_L2_B2_66206b",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155815_rag_L3_B2_60a32f",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155834_rag_L4_B2_b4153d",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155853_rag_L5_B2_058680",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_155914_rag_L1_B3_287c73",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160018_rag_L2_B3_8080c7",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160026_rag_L3_B3_06dee3",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160046_rag_L1_I5_e39d45",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 0.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160054_rag_L4_B3_758129",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160112_rag_L2_I5_e2aa16",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160133_rag_L5_B3_16de69",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160147_rag_L3_I5_a7d902",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160219_rag_L1_B4_e3892e",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160237_rag_L4_I5_65da24",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160313_rag_L2_B4_98c251",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160331_rag_L5_I5_dcd842",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160410_rag_L3_B4_118009",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160526_rag_L4_B4_ff8b90",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160614_rag_L5_B4_b3fc7f",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160642_rag_L1_B5_67ccc4",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160658_rag_L2_B5_528d24",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160708_rag_L3_B5_5cd8c0",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160720_rag_L4_B5_cb8392",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160730_rag_L5_B5_0516b6",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160745_rag_L1_B6_98cb12",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160823_rag_L2_B6_685e05",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160855_rag_L3_B6_bdce72",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160919_rag_L4_B6_468acc",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_160941_rag_L5_B6_fd699d",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161005_rag_L1_B7_748b5f",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161045_rag_L2_B7_7bc86f",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161114_rag_L3_B7_dd196b",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161143_rag_L4_B7_7fea46",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161204_rag_L5_B7_92bac2",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161232_rag_L1_B8_080ec7",
+      "scores": {
+        "evidence_completeness": 0.14285714285714285,
+        "reconstruction_fidelity": 0.42857142857142855,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161307_rag_L2_B8_cedfa5",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.5714285714285714,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161343_rag_L3_B8_07c130",
+      "scores": {
+        "evidence_completeness": 0.2857142857142857,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161406_rag_L4_B8_dee445",
+      "scores": {
+        "evidence_completeness": 0.7142857142857143,
+        "reconstruction_fidelity": 0.7142857142857143,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    },
+    {
+      "run_id": "20260512_161421_rag_L5_B8_60b825",
+      "scores": {
+        "evidence_completeness": 1.0,
+        "reconstruction_fidelity": 1.0,
+        "attribution_accuracy": 1.0
+      },
+      "matches_saved": true
+    }
+  ],
+  "retained_L5_tokens": [
+    {
+      "run_id": "20260512_152614_rag_L5_D1_40c1c2",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "04372585d4e11486e8aa3324ff72d932f47a8fec6e1d33d6a5755eda139b368b",
+        "data_sha256": "812eb59f0e17e0ba3e78b5af316ccf0a0aaed3abf0cdc0664035e185698f6fb7",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:23+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_152629_rag_L5_D2_0588c6",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "a8b658c6d0e9be30df0fe8873a6af194a6333b3f5ebef958269445694a8d01cb",
+        "data_sha256": "07b7c3c51a8ea82164adc78b2a350f5c30f9e1addff692e869b14d15e73600dd",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:24+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_152644_rag_L5_D3_c8d32f",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "ae886a26284fc25954a4160f649d75b8cd9a25f2d8c2b5123fd4848845456ce7",
+        "data_sha256": "3e8094ba217549f7a9c62a47f6ccfa4a48d32adfe2bf686b0cae69e14ddb8dc0",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:25+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_152656_rag_L5_D4_ad2ccd",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "ce8c5f9da6f20bac9e2c877a24acf50c49a8befe80251b1987a0ad5b04aca084",
+        "data_sha256": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:25+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_152726_rag_L5_D5_fbcb41",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "c6187f63c702749e1864fda41684a3658734393d1d8964e326e8fb324f6e3567",
+        "data_sha256": "2bc53748636740db6116ae26697f6361744c4523fa9636df3964d7b980276fd9",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:26+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_154624_rag_L5_I1_c66216",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "3f069259fb50bcabf6d9654041c7a8142220525f0ca3a7cc21438db19818b7e2",
+        "data_sha256": "819b0efa6576aa067fb7129a8d0fbd85e1d27adf773ddacd186c32a313d47879",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:27+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_154914_rag_L5_I2_df043e",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "38bc3df6949642fbd7a5de85562ca54f5b6c9c6688a83f024fbd21be77301ce5",
+        "data_sha256": "28bd9036b2879f93f77eccf26a2c4b635f0b242dc62a42a0931ee6677fb2598a",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:27+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_155233_rag_L5_I3_4d9a6d",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "5c83b6ba8f869bdb972a449c89d73c0bfdf84e31de79dbd67413f1be5e34142c",
+        "data_sha256": "3050fa62bc395266e75712c2908f239415a1109cd3ada1391b2971709c39d3d6",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:28+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_155640_rag_L5_B1_b7168d",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "586f8d29961415e8c752af2de5030927d7d1304fdd1fdf57ac4f75323b3751eb",
+        "data_sha256": "5f8d1cbe895a31fc894e22e3534a6591c97d04dbb01c83aa539c7664f9be0664",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:29+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_155649_rag_L5_I4_6dffb1",
+      "present": true,
+      "verification": {
+        "ok": true,
+        "ca_verified": true,
+        "signature_verified": true,
+        "message_imprint_matched": true,
+        "policy_verified": true,
+        "hash_algorithm": "sha256",
+        "policy_oid": "2.16.840.1.114412.7.1",
+        "token_sha256": "da3b4ebf4b68319e454876792aa8ee7a40fb7f18a95129464e81e3e34ba5fced",
+        "data_sha256": "1777377c404fe9872a899cdb91d305e21305107838e59c83634658eb5f29258d",
+        "revocation_checked": false,
+        "trust_store": "/opt/homebrew/etc/ca-certificates/cert.pem",
+        "trust_store_sha256": "ea7dd6b1af098dedb253a88c2ab29ded2752145f3c41b8e67abbad75c2d63cee",
+        "token_structurally_valid": true,
+        "gen_time": "2026-05-12T17:05:29+00:00",
+        "certificate_validation": "current-time timestamp-signing purpose, strict X.509"
+      }
+    },
+    {
+      "run_id": "20260512_155853_rag_L5_B2_058680",
+      "present": false
+    },
+    {
+      "run_id": "20260512_160133_rag_L5_B3_16de69",
+      "present": false
+    },
+    {
+      "run_id": "20260512_160331_rag_L5_I5_dcd842",
+      "present": false
+    },
+    {
+      "run_id": "20260512_160614_rag_L5_B4_b3fc7f",
+      "present": false
+    },
+    {
+      "run_id": "20260512_160730_rag_L5_B5_0516b6",
+      "present": false
+    },
+    {
+      "run_id": "20260512_160941_rag_L5_B6_fd699d",
+      "present": false
+    },
+    {
+      "run_id": "20260512_161204_rag_L5_B7_92bac2",
+      "present": false
+    },
+    {
+      "run_id": "20260512_161421_rag_L5_B8_60b825",
+      "present": false
+    }
+  ],
+  "tokens_present": 10,
+  "tokens_verified": 10,
+  "code_repair_installed": true,
+  "historical_runs_rewritten": false,
+  "full_suite_run": false
+}

@@ -1,0 +1,443 @@
+{
+  "langfuse_version": "3.173.0",
+  "langfuse_sdk_version": "4.6.1",
+  "n_scenarios": 6,
+  "scenarios_tested": [
+    "B1",
+    "D1",
+    "D3",
+    "D5",
+    "I1",
+    "I3"
+  ],
+  "forensic_questions": {
+    "Q1": "Was the query a prompt-injection attempt?",
+    "Q2": "Which document chunks were retrieved, and from which sources?",
+    "Q3": "Was a poisoned/malicious chunk present in the retrieved set?",
+    "Q4": "Is the LLM response grounded in the retrieved evidence?",
+    "Q5": "Was the system prompt captured / has it been tampered with?",
+    "Q6": "Can the full pipeline execution be reconstructed post-hoc?",
+    "Q7": "Is the audit log tamper-evident?"
+  },
+  "summary_table": {
+    "Q1": {
+      "question": "Was the query a prompt-injection attempt?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 6,
+        "no": 0,
+        "verdict": "PARTIAL"
+      },
+      "ragwitness_l1": {
+        "yes": 3,
+        "partial": 0,
+        "no": 3,
+        "verdict": "PARTIAL"
+      },
+      "ragwitness_l5": {
+        "yes": 5,
+        "partial": 0,
+        "no": 1,
+        "verdict": "PARTIAL"
+      }
+    },
+    "Q2": {
+      "question": "Which document chunks were retrieved, and from which sources?",
+      "langfuse_default": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      },
+      "ragwitness_l1": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l5": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      }
+    },
+    "Q3": {
+      "question": "Was a poisoned/malicious chunk present in the retrieved set?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l1": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l5": {
+        "yes": 2,
+        "partial": 0,
+        "no": 4,
+        "verdict": "PARTIAL"
+      }
+    },
+    "Q4": {
+      "question": "Is the LLM response grounded in the retrieved evidence?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 6,
+        "no": 0,
+        "verdict": "PARTIAL"
+      },
+      "ragwitness_l1": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l5": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      }
+    },
+    "Q5": {
+      "question": "Was the system prompt captured / has it been tampered with?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 6,
+        "no": 0,
+        "verdict": "PARTIAL"
+      },
+      "ragwitness_l1": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l5": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      }
+    },
+    "Q6": {
+      "question": "Can the full pipeline execution be reconstructed post-hoc?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 6,
+        "no": 0,
+        "verdict": "PARTIAL"
+      },
+      "ragwitness_l1": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      },
+      "ragwitness_l5": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      }
+    },
+    "Q7": {
+      "question": "Is the audit log tamper-evident?",
+      "langfuse_default": {
+        "yes": 0,
+        "partial": 0,
+        "no": 6,
+        "verdict": "NO"
+      },
+      "ragwitness_l1": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      },
+      "ragwitness_l5": {
+        "yes": 6,
+        "partial": 0,
+        "no": 0,
+        "verdict": "YES"
+      }
+    }
+  },
+  "per_scenario": [
+    {
+      "attack_id": "B1",
+      "attack_type": "baseline",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_075958_rag_L5_B1_2d0a42",
+      "rw_l1_run_dir": "runs/20260512_155412_rag_L1_B1_01ae08",
+      "rw_l5_run_dir": "runs/20260512_155640_rag_L5_B1_b7168d",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "No attack detected \u2014 reconstructor found no suspicious patterns (reconstructed='none')",
+          "ragwitness_l5": "No attack detected \u2014 reconstructor found no suspicious patterns (reconstructed='none')"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74', '2fc50d4e2a88b6bf595eef06a7e0ea916fc876c9f0060a7868a860ee4fe7bf99:44']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['dfb854d2e036ec0d7e95', '2fc50d4e2a88b6bf595e', '2fc50d4e2a88b6bf595e'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "No poisoned chunk in retrieved set (metadata logged, no poison flag found)"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (455 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.143, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    },
+    {
+      "attack_id": "D1",
+      "attack_type": "direct",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_080047_rag_L5_D1_322238",
+      "rw_l1_run_dir": "runs/20260512_152442_rag_L1_D1_d84cb7",
+      "rw_l5_run_dir": "runs/20260512_152614_rag_L5_D1_40c1c2",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching",
+          "ragwitness_l5": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['5f01f7751117301a8061d497f13b05ef3435a344e01234efe82918041af5c1aa:61', '2fc50d4e2a88b6bf595eef06a7e0ea916fc876c9f0060a7868a860ee4fe7bf99:41']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['5f01f7751117301a8061', '2fc50d4e2a88b6bf595e', 'dfb854d2e036ec0d7e95'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "No poisoned chunk in retrieved set (metadata logged, no poison flag found)"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (71 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.571, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    },
+    {
+      "attack_id": "D3",
+      "attack_type": "direct",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_080106_rag_L5_D3_9f92f3",
+      "rw_l1_run_dir": "runs/20260512_152630_rag_L1_D3_d77dde",
+      "rw_l5_run_dir": "runs/20260512_152644_rag_L5_D3_c8d32f",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching",
+          "ragwitness_l5": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['786a80c94be1547d782ae4c88795b625a027dcd8087484a4b05c18e75a581dbf:34', '6bb06f94c722eb72d17f591f2cb5cee01bdddaff4f92b177281e8b869b04a7a7:3']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['786a80c94be1547d782a', '6bb06f94c722eb72d17f', '3cb6ba041032b1ed43ee'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "No poisoned chunk in retrieved set (metadata logged, no poison flag found)"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (71 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.571, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    },
+    {
+      "attack_id": "D5",
+      "attack_type": "direct",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_080117_rag_L5_D5_9d6d36",
+      "rw_l1_run_dir": "runs/20260512_152713_rag_L1_D5_6ca49f",
+      "rw_l5_run_dir": "runs/20260512_152726_rag_L5_D5_fbcb41",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching",
+          "ragwitness_l5": "Yes \u2014 forensic reconstructor identified attack_type='direct' from query pattern matching"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['2fc50d4e2a88b6bf595eef06a7e0ea916fc876c9f0060a7868a860ee4fe7bf99:35', '3cb6ba041032b1ed43eef711033600dce56d3423b1c73255453410a94095e512:107']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['2fc50d4e2a88b6bf595e', '3cb6ba041032b1ed43ee', 'c3550d590f1c02ab826a'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "No poisoned chunk in retrieved set (metadata logged, no poison flag found)"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (71 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.571, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    },
+    {
+      "attack_id": "I1",
+      "attack_type": "indirect",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_080128_rag_L5_I1_6de34b",
+      "rw_l1_run_dir": "runs/20260512_154600_rag_L1_I1_b62ba6",
+      "rw_l5_run_dir": "runs/20260512_154624_rag_L5_I1_c66216",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "No attack detected \u2014 reconstructor found no suspicious patterns (reconstructed='none')",
+          "ragwitness_l5": "Yes \u2014 forensic reconstructor identified attack_type='indirect' from query pattern matching"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['poison:I1:0', 'dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['poison:I1:0', 'dfb854d2e036ec0d7e95', '2fc50d4e2a88b6bf595e'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 poisoned=True found in chunk metadata; malicious chunk identified"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (71 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.143, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    },
+    {
+      "attack_id": "I3",
+      "attack_type": "indirect",
+      "trace_id": "",
+      "lf_run_dir": "runs_langfuse/20260513_080136_rag_L5_I3_bad81f",
+      "rw_l1_run_dir": "runs/20260512_155222_rag_L1_I3_0e5633",
+      "rw_l5_run_dir": "runs/20260512_155233_rag_L5_I3_4d9a6d",
+      "forensic_answers": {
+        "Q1": {
+          "langfuse_default": "Partial \u2014 trace metadata contains attack_type if caller sets it; no automatic injection detection",
+          "ragwitness_l1": "No attack detected \u2014 reconstructor found no suspicious patterns (reconstructed='none')",
+          "ragwitness_l5": "Yes \u2014 forensic reconstructor identified attack_type='indirect' from query pattern matching"
+        },
+        "Q2": {
+          "langfuse_default": "Yes \u2014 chunk_ids and sources logged in retrieval span output: n=5, ids=['poison:I3:0', 'dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74']\u2026",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 5 chunks logged with IDs and metadata (e.g. ['poison:I3:0', 'dfb854d2e036ec0d7e95', '2fc50d4e2a88b6bf595e'])"
+        },
+        "Q3": {
+          "langfuse_default": "No \u2014 LangFuse has no knowledge of which chunks are poisoned; caller would need to tag malicious chunk IDs explicitly",
+          "ragwitness_l1": "No \u2014 retrieval not logged at L1",
+          "ragwitness_l5": "Yes \u2014 poisoned=True found in chunk metadata; malicious chunk identified"
+        },
+        "Q4": {
+          "langfuse_default": "Partial \u2014 system prompt (with evidence context) logged as generation span input if caller includes it; no automated grounding check",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 full system prompt (with evidence context), user prompt, and answer all logged at L5 (71 chars); complete grounding audit possible from log alone"
+        },
+        "Q5": {
+          "langfuse_default": "Partial \u2014 system prompt text present in generation span input (readable but no integrity hash)",
+          "ragwitness_l1": "No \u2014 system prompt not logged at L1",
+          "ragwitness_l5": "Yes \u2014 system prompt captured at L5 (570 chars); SHA-256 hash in hash chain"
+        },
+        "Q6": {
+          "langfuse_default": "Partial \u2014 trace + spans allow rough reconstruction of query\u2192retrieval\u2192generation flow IF caller instruments all steps; no hash chain, no ordering proof",
+          "ragwitness_l1": "Yes \u2014 EC=0.143, RF=0.429; partial reconstruction from log alone",
+          "ragwitness_l5": "Yes \u2014 EC=1.000, RF=1.000; full reconstruction from log alone"
+        },
+        "Q7": {
+          "langfuse_default": "No \u2014 LangFuse stores traces in a mutable Postgres/ClickHouse database; no hash chain, no cryptographic tamper-evidence",
+          "ragwitness_l1": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)",
+          "ragwitness_l5": "Yes \u2014 SHA-256 hash chain present in integrity.json; each event hashes the previous; final_event_hash=present; tamper-evident (self-signed; RFC 3161 upgrade available at L5)"
+        }
+      }
+    }
+  ]
+}

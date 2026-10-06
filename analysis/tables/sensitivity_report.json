@@ -1,0 +1,1760 @@
+{
+  "by_embed_k_level": [
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "level": 1,
+      "n": 4,
+      "mean_AA": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "level": 2,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "level": 3,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "level": 4,
+      "n": 4,
+      "mean_AA": 1.0
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "level": 5,
+      "n": 4,
+      "mean_AA": 1.0
+    }
+  ],
+  "l1_l2_deltas": [
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "AA_L1": 0.5,
+      "AA_L2": 1.0,
+      "delta_L1_L2": 0.5
+    }
+  ],
+  "raw_rows": [
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "minilm",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 3,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 5,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.5714285714285714,
+      "RF": 0.42857142857142855,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "D3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "direct"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 1,
+      "AA": 0.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.5714285714285714,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "I3",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "indirect"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 1,
+      "AA": 1.0,
+      "EC": 0.14285714285714285,
+      "RF": 0.42857142857142855,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 2,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.5714285714285714,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 3,
+      "AA": 1.0,
+      "EC": 0.2857142857142857,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 4,
+      "AA": 1.0,
+      "EC": 0.7142857142857143,
+      "RF": 0.7142857142857143,
+      "attack_type": "baseline"
+    },
+    {
+      "embed_key": "mpnet",
+      "top_k": 10,
+      "attack_id": "B1",
+      "level": 5,
+      "AA": 1.0,
+      "EC": 1.0,
+      "RF": 1.0,
+      "attack_type": "baseline"
+    }
+  ]
+}

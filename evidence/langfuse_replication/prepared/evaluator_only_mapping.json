@@ -1,0 +1,38 @@
+[
+  {
+    "case": "case-01",
+    "source_run": "20260513_075958_rag_L5_B1_2d0a42",
+    "scenario": "B1",
+    "attack_type": "baseline"
+  },
+  {
+    "case": "case-02",
+    "source_run": "20260513_080047_rag_L5_D1_322238",
+    "scenario": "D1",
+    "attack_type": "direct"
+  },
+  {
+    "case": "case-03",
+    "source_run": "20260513_080106_rag_L5_D3_9f92f3",
+    "scenario": "D3",
+    "attack_type": "direct"
+  },
+  {
+    "case": "case-04",
+    "source_run": "20260513_080117_rag_L5_D5_9d6d36",
+    "scenario": "D5",
+    "attack_type": "direct"
+  },
+  {
+    "case": "case-05",
+    "source_run": "20260513_080128_rag_L5_I1_6de34b",
+    "scenario": "I1",
+    "attack_type": "indirect"
+  },
+  {
+    "case": "case-06",
+    "source_run": "20260513_080136_rag_L5_I3_bad81f",
+    "scenario": "I3",
+    "attack_type": "indirect"
+  }
+]

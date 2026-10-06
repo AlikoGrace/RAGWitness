@@ -1,0 +1,156 @@
+{
+  "n_total_runs": 60,
+  "configs_tested": [
+    "A1_no_metadata",
+    "A2_no_chunk_ids",
+    "A3_no_scores",
+    "A4_no_query",
+    "A5_no_response",
+    "L3_reference"
+  ],
+  "summary_by_config": {
+    "A1_no_metadata": {
+      "n": 10,
+      "ec_mean": 0.5,
+      "aa_mean": 0.5,
+      "rf_mean": 0.5714,
+      "direct": {
+        "n": 5,
+        "ec": 0.7143,
+        "aa": 1.0,
+        "rf": 0.5714
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.2857,
+        "aa": 0.0,
+        "rf": 0.5714
+      }
+    },
+    "A2_no_chunk_ids": {
+      "n": 10,
+      "ec_mean": 0.3571,
+      "aa_mean": 0.5,
+      "rf_mean": 0.4286,
+      "direct": {
+        "n": 5,
+        "ec": 0.5714,
+        "aa": 1.0,
+        "rf": 0.4286
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.1429,
+        "aa": 0.0,
+        "rf": 0.4286
+      }
+    },
+    "A3_no_scores": {
+      "n": 10,
+      "ec_mean": 0.6714,
+      "aa_mean": 0.9,
+      "rf_mean": 0.7143,
+      "direct": {
+        "n": 5,
+        "ec": 0.7143,
+        "aa": 1.0,
+        "rf": 0.7143
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.6286,
+        "aa": 0.8,
+        "rf": 0.7143
+      }
+    },
+    "A4_no_query": {
+      "n": 10,
+      "ec_mean": 0.4571,
+      "aa_mean": 0.4,
+      "rf_mean": 0.5714,
+      "direct": {
+        "n": 5,
+        "ec": 0.2857,
+        "aa": 0.0,
+        "rf": 0.5714
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.6286,
+        "aa": 0.8,
+        "rf": 0.5714
+      }
+    },
+    "A5_no_response": {
+      "n": 10,
+      "ec_mean": 0.6714,
+      "aa_mean": 0.9,
+      "rf_mean": 0.5714,
+      "direct": {
+        "n": 5,
+        "ec": 0.7143,
+        "aa": 1.0,
+        "rf": 0.5714
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.6286,
+        "aa": 0.8,
+        "rf": 0.5714
+      }
+    },
+    "L3_reference": {
+      "n": 10,
+      "ec_mean": 0.6714,
+      "aa_mean": 0.9,
+      "rf_mean": 0.7143,
+      "direct": {
+        "n": 5,
+        "ec": 0.7143,
+        "aa": 1.0,
+        "rf": 0.7143
+      },
+      "indirect": {
+        "n": 5,
+        "ec": 0.6286,
+        "aa": 0.8,
+        "rf": 0.7143
+      }
+    }
+  },
+  "deltas_vs_l3_reference": {
+    "A1_no_metadata": {
+      "delta_ec": -0.1714,
+      "delta_aa": -0.4,
+      "delta_rf": -0.1429
+    },
+    "A2_no_chunk_ids": {
+      "delta_ec": -0.3143,
+      "delta_aa": -0.4,
+      "delta_rf": -0.2857
+    },
+    "A3_no_scores": {
+      "delta_ec": 0.0,
+      "delta_aa": 0.0,
+      "delta_rf": 0.0
+    },
+    "A4_no_query": {
+      "delta_ec": -0.2143,
+      "delta_aa": -0.5,
+      "delta_rf": -0.1429
+    },
+    "A5_no_response": {
+      "delta_ec": 0.0,
+      "delta_aa": 0.0,
+      "delta_rf": -0.1429
+    }
+  },
+  "config_descriptions": {
+    "A1_no_metadata": "L3 without document metadata (log_document_metadata=False)",
+    "A2_no_chunk_ids": "L3 without chunk IDs or scores (log_retrieved_ids=False)",
+    "A3_no_scores": "L3 without retrieval scores (log_retrieval_scores=False)",
+    "A4_no_query": "L3 without query logging (log_query=False)",
+    "A5_no_response": "L3 without LLM response (log_response=False)",
+    "L3_reference": "Standard L3 (all fields enabled)"
+  }
+}

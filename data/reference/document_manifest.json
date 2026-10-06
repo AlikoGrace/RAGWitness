@@ -1,0 +1,2002 @@
+[
+  {
+    "doc_id": "Hansard 21st November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-21 - Hansard 21st November 2023.pdf",
+    "sha256_pdf": "912f56fb22d2e84be8601300340469e2c1794cdfb10529d93f2b9bedffcd6bed",
+    "pages": 58,
+    "title": "Hansard 21st November, 2023",
+    "date_text": "Tuesday, 21st November, 2023 Hansard 21st November, 2023",
+    "date_iso": "2023-11-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st  November, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-22 - Hansard 22nd November 2023.pdf",
+    "sha256_pdf": "4c5d6a0f91ac4b6d2a101831b45466f456a708ed7bca69b62fcc15d720179ca6",
+    "pages": 93,
+    "title": "Hansard 22nd November, 2023",
+    "date_text": "Wednesday, 22nd November, 2023 Hansard 22nd November, 2023",
+    "date_iso": "2023-11-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22ND NOVEMBER, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 23rd November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-23 - Hansard 23rd November 2023.pdf",
+    "sha256_pdf": "3cb6ba041032b1ed43eef711033600dce56d3423b1c73255453410a94095e512",
+    "pages": 143,
+    "title": "Hansard 23rd November, 2023",
+    "date_text": "Thursday, 23rd November, 2023 Hansard 23rd November, 2023",
+    "date_iso": "2023-11-23",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/23rd November, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-27 - Hansard 27th November 2023.pdf",
+    "sha256_pdf": "67f4cdf85e570cbc781dc8d28488acbf3516686ef900fa35f9460b9129009e3a",
+    "pages": 97,
+    "title": "Hansard 27th November, 2023",
+    "date_text": "Monday, 27th November, 2023 Hansard 27th November, 2023",
+    "date_iso": "2023-11-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27TH  NOVEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-28 - Hansard 28th November 2023.pdf",
+    "sha256_pdf": "094988bbcc15851d3f95db22d42421d7b3713b1dcdfeae717ad31d141b61aed3",
+    "pages": 120,
+    "title": "Hansard 28th November, 2023",
+    "date_text": "Tuesday, 28th November, 2023 Hansard 28th November, 2023",
+    "date_iso": "2023-11-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th  Nov. 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th November, 2022",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-29 - Hansard 29th November 2022.pdf",
+    "sha256_pdf": "eb931eacdc9dcaf032ba66ef2611ba824d7909b9617d4670ff8e1077e928e8c8",
+    "pages": 118,
+    "title": "Hansard 29th November, 2022",
+    "date_text": "Wednesday, 29th November, 2023 Hansard 29th November, 2022",
+    "date_iso": "2023-11-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th November 2022.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-29 - Hansard 29th November 2023.pdf",
+    "sha256_pdf": "b9c70077ceace0e6f6e3950509f2608263122d70158004ca1422cbad181f2e85",
+    "pages": 52,
+    "title": "Hansard 29th November, 2023",
+    "date_text": "Wednesday, 29th November, 2023 Hansard 29th November, 2023",
+    "date_iso": "2023-11-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th  November, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 30th November, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-11-30 - Hansard 30th November 2023.pdf",
+    "sha256_pdf": "5f01f7751117301a8061d497f13b05ef3435a344e01234efe82918041af5c1aa",
+    "pages": 70,
+    "title": "Hansard 30th November, 2023",
+    "date_text": "Thursday, 30th November, 2023 Hansard 30th November, 2023",
+    "date_iso": "2023-11-30",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/30TH NOVEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-04 - Hansard 4th December 2023.pdf",
+    "sha256_pdf": "dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c",
+    "pages": 90,
+    "title": "Hansard 4th December, 2023",
+    "date_text": "Monday, 4th December, 2023 Hansard 4th December, 2023",
+    "date_iso": "2023-12-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th December, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 6th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-06 - Hansard 6th December 2023.pdf",
+    "sha256_pdf": "2fc50d4e2a88b6bf595eef06a7e0ea916fc876c9f0060a7868a860ee4fe7bf99",
+    "pages": 81,
+    "title": "Hansard 6th December, 2023",
+    "date_text": "Wednesday, 6th December, 2023 Hansard 6th December, 2023",
+    "date_iso": "2023-12-06",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/6TH  DECEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-07 - Hansard 7th December 2023.pdf",
+    "sha256_pdf": "f3c8a7731301b2a5f530f2708ea530254e7f7f1eabada15b96b6bdc2a9e6b0ce",
+    "pages": 42,
+    "title": "Hansard 7th December, 2023",
+    "date_text": "Thursday, 7th December, 2023 Hansard 7th December, 2023",
+    "date_iso": "2023-12-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7 Dece 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 8th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-08 - Hansard 8th December 2023.pdf",
+    "sha256_pdf": "e182b80dda27147e03542b651cd07297708106190fd6c60dec6eb667a64b3497",
+    "pages": 114,
+    "title": "Hansard 8th December, 2023",
+    "date_text": "Friday, 8th December, 2023 Hansard 8th December, 2023",
+    "date_iso": "2023-12-08",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/8TH  DECEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-12 - Hansard 12th December 2023.pdf",
+    "sha256_pdf": "a901ffaf2be9df16451dfaac3fa7573e35449dc23a8694d69ef4bc6eb7370e4c",
+    "pages": 155,
+    "title": "Hansard 12th December, 2023",
+    "date_text": "Tuesday, 12th December, 2023 Hansard 12th December, 2023",
+    "date_iso": "2023-12-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12TH  DECEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-14 - Hansard 14th December 2023.pdf",
+    "sha256_pdf": "e844205dbcf6ec5e18272e56e0f2ec089de7a74bf2133bee6769ca721ccd69a2",
+    "pages": 165,
+    "title": "Hansard 14th December, 2023",
+    "date_text": "Thursday, 14th December, 2023 Hansard 14th December, 2023",
+    "date_iso": "2023-12-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th December, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 15th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-15 - Hansard 15th December 2023.pdf",
+    "sha256_pdf": "71f5fa263cd927d57f3bda571f90de3ab0a5f3231624544f227e30af5ccb8a40",
+    "pages": 74,
+    "title": "Hansard 15th December, 2023",
+    "date_text": "Friday, 15th December, 2023 Hansard 15th December, 2023",
+    "date_iso": "2023-12-15",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/15  Dece 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-16 - Hansard 16th December 2023.pdf",
+    "sha256_pdf": "ed0b774bfe4d6688c93173341145bd06af00bc269ce5bc0afc724302adc6852f",
+    "pages": 77,
+    "title": "Hansard 16th December, 2023",
+    "date_text": "Saturday, 16th December, 2023 Hansard 16th December, 2023",
+    "date_iso": "2023-12-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16th  December, 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-18 - Hansard 18th December 2023.pdf",
+    "sha256_pdf": "f1ba93d153b9994dc6307d63d3d40326753105d6aff87794681b27b4c7082a21",
+    "pages": 143,
+    "title": "Hansard 18th December, 2023",
+    "date_text": "Monday, 18th December, 2023 Hansard 18th December, 2023",
+    "date_iso": "2023-12-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18th  December, 2023 b.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-19 - Hansard 19th December 2023.pdf",
+    "sha256_pdf": "cf93540b99f030653c1d9313ea5f0ed59f3260439bd575a5a3bea87a3e71a4aa",
+    "pages": 45,
+    "title": "Hansard 19th December, 2023",
+    "date_text": "Tuesday, 19th December, 2023 Hansard 19th December, 2023",
+    "date_iso": "2023-12-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19TH DECEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-21 - Hansard 21st December 2023.pdf",
+    "sha256_pdf": "0bfc34507981421ca2fb15dcadf24c621ed5885cdaa33c53f3e83214297d60ce",
+    "pages": 119,
+    "title": "Hansard 21st December, 2023",
+    "date_text": "Thursday, 21st December, 2023 Hansard 21st December, 2023",
+    "date_iso": "2023-12-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21ST  DECEMBER 2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd December, 2023",
+    "pdf_path": "data/corpus/clean/pdfs/2023-12-22 - Hansard 22nd December 2023.pdf",
+    "sha256_pdf": "1c928850191f5103fa171ff005ed6a6edbacfdd266532bdeb39a4b0eb83f73d3",
+    "pages": 265,
+    "title": "Hansard 22nd December, 2023",
+    "date_text": "Friday, 22nd December, 2023 Hansard 22nd December, 2023",
+    "date_iso": "2023-12-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22 December  2023.pdf"
+  },
+  {
+    "doc_id": "Hansard 6th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-07 - Hansard 6th February 2024.pdf",
+    "sha256_pdf": "7aaf1d3632afef5e9acab831baa7d387dae31aa1e8693139aaaf6f68be179fcf",
+    "pages": 70,
+    "title": "Hansard 6th February, 2024",
+    "date_text": "Wednesday, 7th February, 2024 Hansard 6th February, 2024",
+    "date_iso": "2024-02-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/1. 6TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-08 - Hansard 7th February 2024.pdf",
+    "sha256_pdf": "77616b3f19543a7d39ac5a47202b43453bd6f08bd38d3d82ff58beeeaeca8644",
+    "pages": 49,
+    "title": "Hansard 7th February, 2024",
+    "date_text": "Thursday, 8th February, 2024 Hansard 7th February, 2024",
+    "date_iso": "2024-02-08",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/2. 7TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 8th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-08 - Hansard 8th February 2024.pdf",
+    "sha256_pdf": "e4e8ae15aa12605e4ee85d60a29e1c35e4ca8d502a58d714b3dc8c669ed6ea8e",
+    "pages": 64,
+    "title": "Hansard 8th February, 2024",
+    "date_text": "Thursday, 8th February, 2024 Hansard 8th February, 2024",
+    "date_iso": "2024-02-08",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3. 8TH  FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 9th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-09 - Hansard 9th February 2024.pdf",
+    "sha256_pdf": "dcf133a5b1b8c96d466e791b1bda8b83fe31da5096bb846986f0b5ed3a9078a1",
+    "pages": 18,
+    "title": "Hansard 9th February, 2024",
+    "date_text": "Friday, 9th February, 2024 Hansard 9th February, 2024",
+    "date_iso": "2024-02-09",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4. 9TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-13 - Hansard 13th February 2024.pdf",
+    "sha256_pdf": "d2eeeb6114373dfc1cdb72fe30d2dd0a6b874c2ae29969619464f99bef5029b6",
+    "pages": 33,
+    "title": "Hansard 13th February, 2024",
+    "date_text": "Tuesday, 13th February, 2024 Hansard 13th February, 2024",
+    "date_iso": "2024-02-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/6. 13TH  FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-14 - Hansard 14th February 2024.pdf",
+    "sha256_pdf": "aedd5028b2847c0fd91b6e3cc9982d734ba3db59f0ad2be81d14ca44ebf90478",
+    "pages": 92,
+    "title": "Hansard 14th February, 2024",
+    "date_text": "Wednesday, 14th February, 2024 Hansard 14th February, 2024",
+    "date_iso": "2024-02-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5. 14TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 15th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-15 - Hansard 15th February 2024.pdf",
+    "sha256_pdf": "908f5f667af488e693c47aaf867dc1850d35acc02b5cd93569f018b2a4a12c63",
+    "pages": 62,
+    "title": "Hansard 15th February, 2024",
+    "date_text": "Thursday, 15th February, 2024 Hansard 15th February, 2024",
+    "date_iso": "2024-02-15",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7. 15TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-16 - Hansard 16th February 2024.pdf",
+    "sha256_pdf": "7a557d9064752ce761f66ef45ba5787e25177cf447ed3e9dd629a9e0d23e732d",
+    "pages": 26,
+    "title": "Hansard 16th February, 2024",
+    "date_text": "Friday, 16th February, 2024 Hansard 16th February, 2024",
+    "date_iso": "2024-02-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/8. 16TH FEBRUARY 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-20 - Hansard 20th February 2024.pdf",
+    "sha256_pdf": "236a38d2241b243ab0672fcde741de10e3e7f112400fbf3ed1e895ec96b00713",
+    "pages": 153,
+    "title": "Hansard 20th February, 2024",
+    "date_text": "Tuesday, 20th February, 2024 Hansard 20th February, 2024",
+    "date_iso": "2024-02-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/9. 20TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-21 - Hansard 21st February 2024.pdf",
+    "sha256_pdf": "3614b5f6ee0143f8061923ecdda87eb2bc2569de5117cd4c122450d1154d0bed",
+    "pages": 51,
+    "title": "Hansard 21st February, 2024",
+    "date_text": "Wednesday, 21st February, 2024 Hansard 21st February, 2024",
+    "date_iso": "2024-02-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/10. 21ST FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-22 - Hansard 22nd February 2024.pdf",
+    "sha256_pdf": "11bb8ebb43953834f4ded0376b6a193590e064a2d6ac4612a79d6aa1f2043dea",
+    "pages": 54,
+    "title": "Hansard 22nd February, 2024",
+    "date_text": "Thursday, 22nd February, 2024 Hansard 22nd February, 2024",
+    "date_iso": "2024-02-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11. 22ND FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 23rd February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-23 - Hansard 23rd February 2024.pdf",
+    "sha256_pdf": "260d7f6d08ad2379f884d9084e8a8bae8091db1507c3f63870ec4ff599bafbfe",
+    "pages": 53,
+    "title": "Hansard 23rd February, 2024",
+    "date_text": "Friday, 23rd February, 2024 Hansard 23rd February, 2024",
+    "date_iso": "2024-02-23",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12. 23RD FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-27 - Hansard 27th February 2024.pdf",
+    "sha256_pdf": "4e12c708b103090bd878f70f940c7b2a5e4c6ee19c8096971dc02ca5259c1c7e",
+    "pages": 33,
+    "title": "Hansard 27th February, 2024",
+    "date_text": "Tuesday, 27th February, 2024 Hansard 27th February, 2024",
+    "date_iso": "2024-02-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14. 27TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-28 - Hansard 28th February 2024.pdf",
+    "sha256_pdf": "0ad8229507abb67e5a61e3c61d45650a5832bd3a06e790be9df5be00176d4f6b",
+    "pages": 81,
+    "title": "Hansard 28th February, 2024",
+    "date_text": "Wednesday, 28th February, 2024 Hansard 28th February, 2024",
+    "date_iso": "2024-02-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13. 28TH FEBRUARY 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th February, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-02-29 - Hansard 29th February 2024.pdf",
+    "sha256_pdf": "a746e898a2ed99dc09e7ce2df6545ff61f7318d86d5018df35d84dbb5e8ca61f",
+    "pages": 86,
+    "title": "Hansard 29th February, 2024",
+    "date_text": "Thursday, 29th February, 2024 Hansard 29th February, 2024",
+    "date_iso": "2024-02-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/15. 29TH FEBRUARY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 1st March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-01 - Hansard 1st March 2024.pdf",
+    "sha256_pdf": "59e7cfef331870a1a4da1d224b4a08ca5f1884034066a54227510f38dc1e5de2",
+    "pages": 69,
+    "title": "Hansard 1st March, 2024",
+    "date_text": "Friday, 1st March, 2024 Hansard 1st March, 2024",
+    "date_iso": "2024-03-01",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16. 1ST MARCH,2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-04 - Hansard 4th March 2024.pdf",
+    "sha256_pdf": "accfbf370ca5c54db665dcd858fd2ed1b813c9d2602803f3ab06b2246e61651f",
+    "pages": 80,
+    "title": "Hansard 4th March, 2024",
+    "date_text": "Monday, 4th March, 2024 Hansard 4th March, 2024",
+    "date_iso": "2024-03-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17. 4TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-05 - Hansard 5th March 2024.pdf",
+    "sha256_pdf": "242555147210a7735500978d994bbef4e48e9458c207f71a621e750b8914fd66",
+    "pages": 114,
+    "title": "Hansard 5th March, 2024",
+    "date_text": "Tuesday, 5th March, 2024 Hansard 5th March, 2024",
+    "date_iso": "2024-03-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18. 5TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-07 - Hansard 7th March 2024.pdf",
+    "sha256_pdf": "7f11c6240568e02a33986a7e12196472dea86156e31b56239e4262490d1a7b79",
+    "pages": 51,
+    "title": "Hansard 7th March, 2024",
+    "date_text": "Thursday, 7th March, 2024 Hansard 7th March, 2024",
+    "date_iso": "2024-03-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19. 7TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 8th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-08 - Hansard 8th March 2024.pdf",
+    "sha256_pdf": "ebb7edd726e0aae49748fb047bb0efe84257c41b42c9e003a3265e6e0e942a6f",
+    "pages": 56,
+    "title": "Hansard 8th March, 2024",
+    "date_text": "Friday, 8th March, 2024 Hansard 8th March, 2024",
+    "date_iso": "2024-03-08",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20. 8TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-11 - Hansard 11th March 2024.pdf",
+    "sha256_pdf": "9b21c29a69731d7c0ee4e169da814de1973e85135db7548fc4bebcf5681bbba7",
+    "pages": 97,
+    "title": "Hansard 11th March, 2024",
+    "date_text": "Monday, 11th March, 2024 Hansard 11th March, 2024",
+    "date_iso": "2024-03-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21. 11TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-12 - Hansard 12th March 2024.pdf",
+    "sha256_pdf": "7c83ce28708a2057982b991eb82d3da6b315337aaed00c054c04252e552d1795",
+    "pages": 90,
+    "title": "Hansard 12th March, 2024",
+    "date_text": "Tuesday, 12th March, 2024 Hansard 12th March, 2024",
+    "date_iso": "2024-03-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22. 12TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-13 - Hansard 13th March 2024.pdf",
+    "sha256_pdf": "a15443aeb19f50489143ab4cea6e2b48525c8984a46f3909b36f8d281a600e4c",
+    "pages": 72,
+    "title": "Hansard 13th March, 2024",
+    "date_text": "Wednesday, 13th March, 2024 Hansard 13th March, 2024",
+    "date_iso": "2024-03-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/23. 13TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-14 - Hansard 14th March 2024.pdf",
+    "sha256_pdf": "fee5f57a3ef7a78b1e6499085142a83461ae68f3141be06744dcc9c25e384d03",
+    "pages": 45,
+    "title": "Hansard 14th March, 2024",
+    "date_text": "Thursday, 14th March, 2024 Hansard 14th March, 2024",
+    "date_iso": "2024-03-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24. 14TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 15th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-15 - Hansard 15th March 2024.pdf",
+    "sha256_pdf": "ae2aa7a7eb058621757bea70a422d2e6f7cfe91538eafe5eb91a2518af99a6fa",
+    "pages": 61,
+    "title": "Hansard 15th March, 2024",
+    "date_text": "Friday, 15th March, 2024 Hansard 15th March, 2024",
+    "date_iso": "2024-03-15",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25. 15TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-18 - Hansard 18th March 2024.pdf",
+    "sha256_pdf": "46c94cdb0e582c49bee07a09b2660ea0bfd594747a36918d113c387a27a878c3",
+    "pages": 33,
+    "title": "Hansard 18th March, 2024",
+    "date_text": "Monday, 18th March, 2024 Hansard 18th March, 2024",
+    "date_iso": "2024-03-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26. 18TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-19 - Hansard 19th March 2024.pdf",
+    "sha256_pdf": "1664eaa121b6712cebcc7e20ef3f72dd363597de4a451b45e1afd0ca63eed9cd",
+    "pages": 116,
+    "title": "Hansard 19th March, 2024",
+    "date_text": "Tuesday, 19th March, 2024 Hansard 19th March, 2024",
+    "date_iso": "2024-03-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27. 19TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th March, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-03-20 - Hansard 20th March 2024.pdf",
+    "sha256_pdf": "f54053f07e96054e43af7340b0476a4b25ada726845c8644ada7162c35692c18",
+    "pages": 86,
+    "title": "Hansard 20th March, 2024",
+    "date_text": "Wednesday, 20th March, 2024 Hansard 20th March, 2024",
+    "date_iso": "2024-03-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28. 20TH MARCH, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th May, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-05-17 - Hansard 17th May 2024.pdf",
+    "sha256_pdf": "f4329c6ca2a4269ba3c6202ffed723c1815e50f4902e8f45b3097653c017bc09",
+    "pages": 213,
+    "title": "Hansard 17th May, 2024",
+    "date_text": "Friday, 17th May, 2024 Hansard 17th May, 2024",
+    "date_iso": "2024-05-17",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17th May, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-11 - Hansard 11th June 2024.pdf",
+    "sha256_pdf": "82209c6dacc4611cc8af10319dfaac604c7941e81e41f2e569e837380a80b36f",
+    "pages": 87,
+    "title": "Hansard 11th June, 2024",
+    "date_text": "Tuesday, 11th June, 2024 Hansard 11th June, 2024",
+    "date_iso": "2024-06-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-12 - Hansard 12th June 2024.pdf",
+    "sha256_pdf": "5ee5a6b3ec6433d5bf3937a222771b5d7cc25c661a7af06ecece303900540664",
+    "pages": 55,
+    "title": "Hansard 12th June, 2024",
+    "date_text": "Wednesday, 12th June, 2024 Hansard 12th June, 2024",
+    "date_iso": "2024-06-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-13 - Hansard 13th June 2024.pdf",
+    "sha256_pdf": "f7b061bbfc5587cae13cf6d7d4e7cedbaa7da650c04fb5e3f3261df6225062c0",
+    "pages": 21,
+    "title": "Hansard 13th June, 2024",
+    "date_text": "Thursday, 13th June, 2024 Hansard 13th June, 2024",
+    "date_iso": "2024-06-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13th June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-14 - Hansard 14th June 2024.pdf",
+    "sha256_pdf": "5ae7aa248e4b5e47ab33db662f1034db38b0d19b36f70db078ccae2bf4636898",
+    "pages": 116,
+    "title": "Hansard 14th June, 2024",
+    "date_text": "Friday, 14th June, 2024 Hansard 14th June, 2024",
+    "date_iso": "2024-06-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-18 - Hansard 18th June 2024.pdf",
+    "sha256_pdf": "e10f1c8b415b26258db6dc713b7d66411866517913b7af214567d696439b1918",
+    "pages": 67,
+    "title": "Hansard 18th June, 2024",
+    "date_text": "Tuesday, 18th June, 2024 Hansard 18th June, 2024",
+    "date_iso": "2024-06-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18 June  2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-20 - Hansard 20th June 2024.pdf",
+    "sha256_pdf": "15324582e88cf8ea7320c37b31658d6f07c3357cb85da454470ff3af23ec11e7",
+    "pages": 38,
+    "title": "Hansard 20th June, 2024",
+    "date_text": "Thursday, 20th June, 2024 Hansard 20th June, 2024",
+    "date_iso": "2024-06-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20TH JUNE 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-21 - Hansard 21st June 2024.pdf",
+    "sha256_pdf": "417542321ce4924e1f19d3a2a44599f06f88d12c4ce86b230b80751d2b06ae1d",
+    "pages": 72,
+    "title": "Hansard 21st June, 2024",
+    "date_text": "Friday, 21st June, 2024 Hansard 21st June, 2024",
+    "date_iso": "2024-06-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard  26th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-26 - Hansard 26th June 2024.pdf",
+    "sha256_pdf": "e3513c251f632c0107eb0226846bbc71e01c619062fe675459f8af731a1f9b29",
+    "pages": 36,
+    "title": "Hansard  26th June, 2024",
+    "date_text": "Wednesday, 26th June, 2024 Hansard  26th June, 2024",
+    "date_iso": "2024-06-26",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26th June, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th June, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-06-27 - Hansard 27th June 2024.pdf",
+    "sha256_pdf": "91681c51f3a5da190fa29dea7738f8038958ff623f894dd5b53025e5f0194543",
+    "pages": 38,
+    "title": "Hansard 27th June, 2024",
+    "date_text": "Thursday, 27th June, 2024 Hansard 27th June, 2024",
+    "date_iso": "2024-06-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27 June 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 2nd July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-02 - Hansard 2nd July 2024.pdf",
+    "sha256_pdf": "89016ab505a6dff66b8200efe66ca72ddff765825e21a16ce9563e178b4588b7",
+    "pages": 34,
+    "title": "Hansard 2nd July, 2024",
+    "date_text": "Tuesday, 2nd July, 2024 Hansard 2nd July, 2024",
+    "date_iso": "2024-07-02",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/2nd July 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 3rd July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-03 - Hansard 3rd July 2024.pdf",
+    "sha256_pdf": "a82489b82c27481cc82a1fa5d47e3ea2ac5753b0468c488b583c70983dac43aa",
+    "pages": 94,
+    "title": "Hansard 3rd July, 2024",
+    "date_text": "Wednesday, 3rd July, 2024 Hansard 3rd July, 2024",
+    "date_iso": "2024-07-03",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3rd July, 2024 two.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-04 - Hansard 4th July 2024.pdf",
+    "sha256_pdf": "51cfa0ebb3a26e98e401f9cd6d582718dded29e1b9c383418a9b4dc6aff44246",
+    "pages": 94,
+    "title": "Hansard 4th July, 2024",
+    "date_text": "Thursday, 4th July, 2024 Hansard 4th July, 2024",
+    "date_iso": "2024-07-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-05 - Hansard 5th July 2024.pdf",
+    "sha256_pdf": "04e47e1138c799e8a1bbad3fc760f603c50f01d55efc42a3766f6eb6f075cdd2",
+    "pages": 90,
+    "title": "Hansard 5th July, 2024",
+    "date_text": "Friday, 5th July, 2024 Hansard 5th July, 2024",
+    "date_iso": "2024-07-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 9th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-09 - Hansard 9th July 2024.pdf",
+    "sha256_pdf": "a384b207220c2d8a99c5024104409df421495e021180e6204918c41c8792ce64",
+    "pages": 69,
+    "title": "Hansard 9th July, 2024",
+    "date_text": "Tuesday, 9th July, 2024 Hansard 9th July, 2024",
+    "date_iso": "2024-07-09",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/09 July 2024 -.pdf"
+  },
+  {
+    "doc_id": "Hansard 10th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-10 - Hansard 10th July 2024.pdf",
+    "sha256_pdf": "3d0c88bf3d8255d02f1b02653892c27e5ed8bb2a9cbc30adfe41692280fbb1bc",
+    "pages": 97,
+    "title": "Hansard 10th July, 2024",
+    "date_text": "Wednesday, 10th July, 2024 Hansard 10th July, 2024",
+    "date_iso": "2024-07-10",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/10th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-11 - Hansard 11th July 2024.pdf",
+    "sha256_pdf": "c8a5a74087fc6f30495569a66fdf79b59c8dca03c0771c75474496a34803840f",
+    "pages": 75,
+    "title": "Hansard 11th July, 2024",
+    "date_text": "Thursday, 11th July, 2024 Hansard 11th July, 2024",
+    "date_iso": "2024-07-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th July 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-12 - Hansard 12th July 2024.pdf",
+    "sha256_pdf": "0007f7c6757750ef64cbddfdb4d11f00bcaf8000c33cdb40be254f1d683907a6",
+    "pages": 67,
+    "title": "Hansard 12th July, 2024",
+    "date_text": "Friday, 12th July, 2024 Hansard 12th July, 2024",
+    "date_iso": "2024-07-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-16 - Hansard 16th July 2024.pdf",
+    "sha256_pdf": "e13cf76bd234730660be8d59c156a974b8679f59281546ec6f8d3edd50704987",
+    "pages": 81,
+    "title": "Hansard 16th July, 2024",
+    "date_text": "Tuesday, 16th July, 2024 Hansard 16th July, 2024",
+    "date_iso": "2024-07-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16TH JULY, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-17 - Hansard 17th July 2024.pdf",
+    "sha256_pdf": "af488087b5485089da3f7d70f0169645075e96a030b7a7806400dfe2f7b212e0",
+    "pages": 35,
+    "title": "Hansard 17th July, 2024",
+    "date_text": "Wednesday, 17th July, 2024 Hansard 17th July, 2024",
+    "date_iso": "2024-07-17",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17 July 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-19 - Hansard 19th July 2024.pdf",
+    "sha256_pdf": "5b38cc3414c13be1b2b56b16d235da68b6df39a14ac22d5ecb97cf8d6633a26a",
+    "pages": 47,
+    "title": "Hansard 19th July, 2024",
+    "date_text": "Friday, 19th July, 2024 Hansard 19th July, 2024",
+    "date_iso": "2024-07-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-22 - Hansard 22nd July 2024.pdf",
+    "sha256_pdf": "fe0bc090546f2ad25b9aca8a5d7c0aef26c115ffc7c51ce463e22a70701b6eb2",
+    "pages": 22,
+    "title": "Hansard 22nd July, 2024",
+    "date_text": "Monday, 22nd July, 2024 Hansard 22nd July, 2024",
+    "date_iso": "2024-07-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22nd July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-24 - Hansard 24th July 2024.pdf",
+    "sha256_pdf": "36d9b310817e19ee95f0db79e3035e8ea9009c7bc884db31c63f3439c5510db6",
+    "pages": 92,
+    "title": "Hansard 24th July, 2024",
+    "date_text": "Wednesday, 24th July, 2024 Hansard 24th July, 2024",
+    "date_iso": "2024-07-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 25th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-25 - Hansard 25th July 2024.pdf",
+    "sha256_pdf": "2d683d66606a4e19ac6ab996cd490cdd087f3ae76e9923d8236a59dba74cf38a",
+    "pages": 96,
+    "title": "Hansard 25th July, 2024",
+    "date_text": "Thursday, 25th July, 2024 Hansard 25th July, 2024",
+    "date_iso": "2024-07-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25 July 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-29 - Hansard 29th July 2024.pdf",
+    "sha256_pdf": "b1388de3c95af6edee92136b7eebce63a484e3894a9f02c36d65c92031bef551",
+    "pages": 86,
+    "title": "Hansard 29th July, 2024",
+    "date_text": "Monday, 29th July, 2024 Hansard 29th July, 2024",
+    "date_iso": "2024-07-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th July, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 30th July, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-07-30 - Hansard 30th July 2024.pdf",
+    "sha256_pdf": "1810b5c3a65f4dba3213c6271f41ccd8891ab0b12eea238801e02276c8b2c8b1",
+    "pages": 106,
+    "title": "Hansard 30th July, 2024",
+    "date_text": "Tuesday, 30th July, 2024 Hansard 30th July, 2024",
+    "date_iso": "2024-07-30",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/30th July,2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 3rd September, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-09-03 - Hansard 3rd September 2024.pdf",
+    "sha256_pdf": "2c8a2d9eeba0299ac046327fc4c28042534e23a5b920d6f2ce9a5f5db312b996",
+    "pages": 69,
+    "title": "Hansard 3rd September, 2024",
+    "date_text": "Tuesday, 3rd September, 2024 Hansard 3rd September, 2024",
+    "date_iso": "2024-09-03",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3rd September, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th September, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-09-04 - Hansard 4th September 2024.pdf",
+    "sha256_pdf": "9ed835ce6f7b9acac1252a726585a4c7e5c9582a530309cfc738fdacbf8f984a",
+    "pages": 65,
+    "title": "Hansard 4th September, 2024",
+    "date_text": "Wednesday, 4th September, 2024 Hansard 4th September, 2024",
+    "date_iso": "2024-09-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th September, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 15th  October, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-10-15 - Hansard 15th October 2024.pdf",
+    "sha256_pdf": "8fc1281cb1ee366dbcdd5d1c0fc5bc7fe7694f66b15f56486c8e07923dae2e32",
+    "pages": 105,
+    "title": "Hansard 15th  October, 2024",
+    "date_text": "Tuesday, 15th October, 2024 Hansard 15th  October, 2024",
+    "date_iso": "2024-10-15",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/15th October, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th October, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-10-16 - Hansard 16th October 2024.pdf",
+    "sha256_pdf": "9addf29ad4b6ed09e58cfb1605e137ef90eb23bfdd1c8d3efaff0485e435e2c7",
+    "pages": 16,
+    "title": "Hansard 16th October, 2024",
+    "date_text": "Wednesday, 16th October, 2024 Hansard 16th October, 2024",
+    "date_iso": "2024-10-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16th October, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th October, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-10-17 - Hansard 17th October 2024.pdf",
+    "sha256_pdf": "acab063e220ce228e7452b35da15fb3f6cbcd549c74ab4cfc0338ebddf4d6cae",
+    "pages": 15,
+    "title": "Hansard 17th October, 2024",
+    "date_text": "Thursday, 17th October, 2024 Hansard 17th October, 2024",
+    "date_iso": "2024-10-17",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17th October. 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd October, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-10-22 - Hansard 22nd October 2024.pdf",
+    "sha256_pdf": "a237335876bf2d1bdfe9e80c4192987c28cfc598389a4c330d9029fc7ded1b37",
+    "pages": 6,
+    "title": "Hansard 22nd October, 2024",
+    "date_text": "Tuesday, 22nd October, 2024 Hansard 22nd October, 2024",
+    "date_iso": "2024-10-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22nd October, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th November, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-11-07 - Hansard 7th November 2024.pdf",
+    "sha256_pdf": "0e22f0f37be7783ef6a52e48721c2c4465ce9408796d62f6944c01f5ef01cee6",
+    "pages": 5,
+    "title": "Hansard 7th November, 2024",
+    "date_text": "Thursday, 7th November, 2024 Hansard 7th November, 2024",
+    "date_iso": "2024-11-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th November, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th December, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-11-19 - Hansard 19th December 2024.pdf",
+    "sha256_pdf": "888e3eff0f49cdf77dfcb72ccd7c599961ba602e709f7dd74027846b9df447fe",
+    "pages": 162,
+    "title": "Hansard 19th December, 2024",
+    "date_text": "Tuesday, 19th November, 2024 Hansard 19th December, 2024",
+    "date_iso": "2024-11-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th December 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th December, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-12-12 - Hansard 17th December 2024.pdf",
+    "sha256_pdf": "8c3a5cd18c30bc0019e1f0c64312f7039254aa603ceba99283e14ee1d1529117",
+    "pages": 26,
+    "title": "Hansard 17th December, 2024",
+    "date_text": "Thursday, 12th December, 2024 Hansard 17th December, 2024",
+    "date_iso": "2024-12-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17th December, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th December, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-12-16 - Hansard 16th December 2024.pdf",
+    "sha256_pdf": "49a936eb7393216f976fe931d6646084519d65dbdf549ce44802e618d3a24d08",
+    "pages": 59,
+    "title": "Hansard 16th December, 2024",
+    "date_text": "Monday, 16th December, 2024 Hansard 16th December, 2024",
+    "date_iso": "2024-12-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16th December, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th December, 2024",
+    "pdf_path": "data/corpus/clean/pdfs/2024-12-20 - Hansard 20th December 2024.pdf",
+    "sha256_pdf": "1a37a2d898d8e0660c7b3873e3c12f8ace4adfcdcabf716a3fd332b0264e5e59",
+    "pages": 6,
+    "title": "Hansard 20th December, 2024",
+    "date_text": "Friday, 20th December, 2024 Hansard 20th December, 2024",
+    "date_iso": "2024-12-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20th December, 2024.pdf"
+  },
+  {
+    "doc_id": "Hansard 3rd January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-03 - Hansard 3rd January 2025.pdf",
+    "sha256_pdf": "c0940334288c1d1709d807d4644c1f570c85a6283121382621de3006111968a6",
+    "pages": 27,
+    "title": "Hansard 3rd January, 2025",
+    "date_text": "Friday, 3rd January, 2025 Hansard 3rd January, 2025",
+    "date_iso": "2025-01-03",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3rd January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-07 - Hansard 7th January 2025.pdf",
+    "sha256_pdf": "e6e82627c9814eb98292b402c681be69769a3cb596dbd65b77ac8be9cf26bcba",
+    "pages": 79,
+    "title": "Hansard 7th January 2025",
+    "date_text": "Tuesday, 7th January, 2025 Hansard 7th January 2025",
+    "date_iso": "2025-01-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th January 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 8th January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-08 - Hansard 8th January 2025.pdf",
+    "sha256_pdf": "bc5c5a59f131846afefdc938ec4859f13a7d7d22f07d5eb75d03bc70c8809f76",
+    "pages": 48,
+    "title": "Hansard 8th January, 2025",
+    "date_text": "Wednesday, 8th January, 2025 Hansard 8th January, 2025",
+    "date_iso": "2025-01-08",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/8th January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 9th January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-09 - Hansard 9th January 2025.pdf",
+    "sha256_pdf": "d07cf313ebdfa9b9bbd73d79d0b96bf8d548e6ae0a7fb35e3a8dcd57fa746cc9",
+    "pages": 39,
+    "title": "Hansard 9th January 2025",
+    "date_text": "Thursday, 9th January, 2025 Hansard 9th January 2025",
+    "date_iso": "2025-01-09",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/9th January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-21 - Hansard 21st January 2025.pdf",
+    "sha256_pdf": "0fe3f410fc745523006ed3a3e4cfd570ca9ea2202e97e2bd499b841d4a52d011",
+    "pages": 137,
+    "title": "Hansard 21st January, 2025",
+    "date_text": "Tuesday, 21st January, 2025 Hansard 21st January, 2025",
+    "date_iso": "2025-01-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 22 January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-22 - Hansard 22 January 2025.pdf",
+    "sha256_pdf": "96d4b1fcfc55fdfc38dea10d17de0f48891d89554fe7b8c445ee00ca981a0748",
+    "pages": 77,
+    "title": "Hansard 22 January 2025",
+    "date_text": "Wednesday, 22nd January, 2025 Hansard 22 January 2025",
+    "date_iso": "2025-01-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22 January 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 23rd January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-23 - Hansard 23rd January 2025.pdf",
+    "sha256_pdf": "60ec5696f1ee558000629d2c1fefc47a90ef9e31ac1548164809867cdb7ca5eb",
+    "pages": 109,
+    "title": "Hansard 23rd January, 2025",
+    "date_text": "Thursday, 23rd January, 2025 Hansard 23rd January, 2025",
+    "date_iso": "2025-01-23",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/23rd January 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-24 - Hansard 24th January 2025.pdf",
+    "sha256_pdf": "38283571b16d9be37babbcf844d1e6f61b8274b3cf752c91364768f1c4e3940b",
+    "pages": 72,
+    "title": "Hansard 24th January 2025",
+    "date_text": "Friday, 24th January, 2025 Hansard 24th January 2025",
+    "date_iso": "2025-01-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-28 - Hansard 28th January 2025.pdf",
+    "sha256_pdf": "4fe885b06ff4fb87f0e4b12288d19868d99e378b4b6b0c7bbcbc57dbaa1694bd",
+    "pages": 62,
+    "title": "Hansard 28th January 2025",
+    "date_text": "Tuesday, 28th January, 2025 Hansard 28th January 2025",
+    "date_iso": "2025-01-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th January 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th January 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-29 - Hansard 29th January 2025.pdf",
+    "sha256_pdf": "58fdfa170e4f6f4fbf4a715704d4b4734e22036f6e3da5b761830666248467a9",
+    "pages": 144,
+    "title": "Hansard 29th January 2025",
+    "date_text": "Wednesday, 29th January, 2025 Hansard 29th January 2025",
+    "date_iso": "2025-01-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 30th January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-30 - Hansard 30th January 2025.pdf",
+    "sha256_pdf": "bff987ac9641a00d8c65e40b6e9362570330ec42a0afce2c73bae01ed04e602b",
+    "pages": 54,
+    "title": "Hansard 30th January, 2025",
+    "date_text": "Thursday, 30th January, 2025 Hansard 30th January, 2025",
+    "date_iso": "2025-01-30",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/30th January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 31st January, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-01-31 - Hansard 31st January 2025.pdf",
+    "sha256_pdf": "9cc2e98b8f574cb5354cc944ede5ca1f7bd42fc588594ea082b045b0392fe73b",
+    "pages": 10,
+    "title": "Hansard 31st January, 2025",
+    "date_text": "Friday, 31st January, 2025 Hansard 31st January, 2025",
+    "date_iso": "2025-01-31",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/31st January, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-04 - Hansard 4th February 2025.pdf",
+    "sha256_pdf": "96cbca14e0824615af9cfe990199403d5380c56f5368070eb146c14bed81d10b",
+    "pages": 190,
+    "title": "Hansard 4th February, 2025",
+    "date_text": "Tuesday, 4th February, 2025 Hansard 4th February, 2025",
+    "date_iso": "2025-02-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-05 - Hansard 5th February 2025.pdf",
+    "sha256_pdf": "69a0896d1aab5965c39ff3025ccb9a105407f9fb4e0e32e619ed64e2a69ddba7",
+    "pages": 71,
+    "title": "Hansard 5th February, 2025",
+    "date_text": "Wednesday, 5th February, 2025 Hansard 5th February, 2025",
+    "date_iso": "2025-02-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5TH FEBRUARY, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 6th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-06 - Hansard 6th February 2025.pdf",
+    "sha256_pdf": "4bbda61968f25ba2881ad2946ad37983b4fefe3a671a8643d9c2e5d06e386da9",
+    "pages": 29,
+    "title": "Hansard 6th February, 2025",
+    "date_text": "Thursday, 6th February, 2025 Hansard 6th February, 2025",
+    "date_iso": "2025-02-06",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/6th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th   February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-07 - Hansard 7th February 2025.pdf",
+    "sha256_pdf": "4105f7bcbf2e2ed0aaa23bdf29fd750dbd84c60bdc0c6ed85529d9d45737d203",
+    "pages": 18,
+    "title": "Hansard 7th   February, 2025",
+    "date_text": "Friday, 7th February, 2025 Hansard 7th   February, 2025",
+    "date_iso": "2025-02-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard  11th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-11 - Hansard 11th February 2025.pdf",
+    "sha256_pdf": "f9600839e49c48174cdaa638d1b03a008482246e3656fcb0f77a64d4cf578472",
+    "pages": 85,
+    "title": "Hansard  11th February, 2025",
+    "date_text": "Tuesday, 11th February, 2025 Hansard  11th February, 2025",
+    "date_iso": "2025-02-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-12 - Hansard 12th February 2025.pdf",
+    "sha256_pdf": "d95aed854433288717971939cba9c8809a533530695693496acd7b0b26d31dd2",
+    "pages": 69,
+    "title": "Hansard 12th February, 2025",
+    "date_text": "Wednesday, 12th February, 2025 Hansard 12th February, 2025",
+    "date_iso": "2025-02-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-13 - Hansard 13th February 2025.pdf",
+    "sha256_pdf": "590bffd34f0074ac8df4fb09178f16dbf64552333f7b70a6ad684292ff8f2ba0",
+    "pages": 62,
+    "title": "Hansard 13th February, 2025",
+    "date_text": "Thursday, 13th February, 2025 Hansard 13th February, 2025",
+    "date_iso": "2025-02-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-14 - Hansard 14th February 2025.pdf",
+    "sha256_pdf": "a3edaf549434663cc295fb95083cdd0a4805d30f6176d533be2c6abe6faacef6",
+    "pages": 64,
+    "title": "Hansard 14th February, 2025",
+    "date_text": "Friday, 14th February, 2025 Hansard 14th February, 2025",
+    "date_iso": "2025-02-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-18 - Hansard 18th February 2025.pdf",
+    "sha256_pdf": "229334d8785cb282fe31f3cb95dc19c2bf2d0c6d99136421011c9058ac0279af",
+    "pages": 83,
+    "title": "Hansard 18th February, 2025",
+    "date_text": "Tuesday, 18th February, 2025 Hansard 18th February, 2025",
+    "date_iso": "2025-02-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-19 - Hansard 19th February 2025.pdf",
+    "sha256_pdf": "09e40dc218eabe6140d3da9f41fa5089177303b29afff412bbf04b7939384856",
+    "pages": 87,
+    "title": "Hansard 19th February, 2025",
+    "date_text": "Wednesday, 19th February, 2025 Hansard 19th February, 2025",
+    "date_iso": "2025-02-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-20 - Hansard 20th February 2025.pdf",
+    "sha256_pdf": "2961970033e18f7755c0bd68acf7cb8be6005f705e805801b547b037d2193797",
+    "pages": 51,
+    "title": "Hansard 20th February, 2025",
+    "date_text": "Thursday, 20th February, 2025 Hansard 20th February, 2025",
+    "date_iso": "2025-02-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-21 - Hansard 21st February 2025.pdf",
+    "sha256_pdf": "b30966ff58f95e370e0167aca67e83af9156567759142e7b6a12457bde00ac29",
+    "pages": 76,
+    "title": "Hansard 21st February, 2025",
+    "date_text": "Friday, 21st February, 2025 Hansard 21st February, 2025",
+    "date_iso": "2025-02-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 25th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-25 - Hansard 25th February 2025.pdf",
+    "sha256_pdf": "0120471239d2758cee840f17a1690421cb5b188f0293e074dc31a096c01186d5",
+    "pages": 83,
+    "title": "Hansard 25th February, 2025",
+    "date_text": "Tuesday, 25th February, 2025 Hansard 25th February, 2025",
+    "date_iso": "2025-02-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 26th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-26 - Hansard 26th February 2025.pdf",
+    "sha256_pdf": "c00d871559024055683cf69157e139aac88937112b45295f5ce26a4853e49e57",
+    "pages": 10,
+    "title": "Hansard 26th February, 2025",
+    "date_text": "Wednesday, 26th February, 2025 Hansard 26th February, 2025",
+    "date_iso": "2025-02-26",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-27 - Hansard 27th February 2025.pdf",
+    "sha256_pdf": "12e1cd9049cbf0ab712778ea407994c286f559e165c630d02055e0b04410ddd5",
+    "pages": 43,
+    "title": "Hansard 27th February, 2025",
+    "date_text": "Thursday, 27th February, 2025 Hansard 27th February, 2025",
+    "date_iso": "2025-02-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th February, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-02-28 - Hansard 28th February 2025.pdf",
+    "sha256_pdf": "c5c72f37c302ef9b1452d16465c23ef330167c1b086da25efca6cdf9bd4bd0e3",
+    "pages": 72,
+    "title": "Hansard 28th February, 2025",
+    "date_text": "Friday, 28th February, 2025 Hansard 28th February, 2025",
+    "date_iso": "2025-02-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th February, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-04 - Hansard 4th March 2025.pdf",
+    "sha256_pdf": "5b5a4aa31e4bcdb8be15ab70171e80880442d8e9a1796a50e333ba3a53c85199",
+    "pages": 101,
+    "title": "Hansard 4th March, 2025",
+    "date_text": "Tuesday, 4th March, 2025 Hansard 4th March, 2025",
+    "date_iso": "2025-03-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-05 - Hansard 5th March 2025.pdf",
+    "sha256_pdf": "05adec586a101e7771bd736dc025ab05d94bd084238755c44d23de39b0a85fb6",
+    "pages": 85,
+    "title": "Hansard 5th March, 2025",
+    "date_text": "Wednesday, 5th March, 2025 Hansard 5th March, 2025",
+    "date_iso": "2025-03-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5 March 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-07 - Hansard 7th March 2025.pdf",
+    "sha256_pdf": "5b3f6d94f320351dbe117a94031f0357dac083c48c9e273692df5df21dfcfed7",
+    "pages": 248,
+    "title": "Hansard 7th March, 2025",
+    "date_text": "Friday, 7th March, 2025 Hansard 7th March, 2025",
+    "date_iso": "2025-03-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-11 - Hansard 11th March 2025.pdf",
+    "sha256_pdf": "64dcde72c039bc9981bf424e645a5aa381258860bfcb2e5a824b69eac389d31e",
+    "pages": 50,
+    "title": "Hansard 11th March, 2025",
+    "date_text": "Tuesday, 11th March, 2025 Hansard 11th March, 2025",
+    "date_iso": "2025-03-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-12 - Hansard 12th March 2025.pdf",
+    "sha256_pdf": "e78bbf83c931760d001176a11b35ee663b6c4d68c173a450896e5577763ce591",
+    "pages": 68,
+    "title": "Hansard 12th March, 2025",
+    "date_text": "Wednesday, 12th March, 2025 Hansard 12th March, 2025",
+    "date_iso": "2025-03-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-13 - Hansard 13th March 2025.pdf",
+    "sha256_pdf": "ec8d7d0e3fae515873e908c59282c2a457add4fb1bab4dd26231b0c036d69ffb",
+    "pages": 117,
+    "title": "Hansard 13th March, 2025",
+    "date_text": "Thursday, 13th March, 2025 Hansard 13th March, 2025",
+    "date_iso": "2025-03-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-14 - Hansard 14th March 2025.pdf",
+    "sha256_pdf": "7f06ed3cd002af4df1999320fc4463d11031fe019427023d686d1d2f682ac313",
+    "pages": 75,
+    "title": "Hansard 14th March, 2025",
+    "date_text": "Friday, 14th March, 2025 Hansard 14th March, 2025",
+    "date_iso": "2025-03-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-18 - Hansard 18th March 2025.pdf",
+    "sha256_pdf": "db7ba99a2342bb738f04f003c17dea8046a87f56856c9f6f8ab4b45c636a8606",
+    "pages": 138,
+    "title": "Hansard 18th March, 2025",
+    "date_text": "Tuesday, 18th March, 2025 Hansard 18th March, 2025",
+    "date_iso": "2025-03-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18 March 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-19 - Hansard 19th March 2025.pdf",
+    "sha256_pdf": "bf49b4b8bd2fbdccb3307341209e6678e84c3c410cf3210bdc9d326a9cf3c1a7",
+    "pages": 132,
+    "title": "Hansard 19th March, 2025",
+    "date_text": "Wednesday, 19th March, 2025 Hansard 19th March, 2025",
+    "date_iso": "2025-03-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-20 - Hansard 20th March 2025.pdf",
+    "sha256_pdf": "8db196cbd1b9a6898d265aa6d389a1ec775a5f9f88fcd23d09fa4207a76ca352",
+    "pages": 97,
+    "title": "Hansard 20th March, 2025",
+    "date_text": "Thursday, 20th March, 2025 Hansard 20th March, 2025",
+    "date_iso": "2025-03-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-21 - Hansard 21st March 2025.pdf",
+    "sha256_pdf": "8d0fc056a578520f62c32ffd1e79df3c47dc02179eec4951a9d423399665f1be",
+    "pages": 112,
+    "title": "Hansard 21st March, 2025",
+    "date_text": "Friday, 21st March, 2025 Hansard 21st March, 2025",
+    "date_iso": "2025-03-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-24 - Hansard 24th March 2025.pdf",
+    "sha256_pdf": "2760411623e4c80d25f354cfff1c0a261aac3bc0a3fc27adcc2e0589f3ab0ad3",
+    "pages": 74,
+    "title": "Hansard 24th March, 2025",
+    "date_text": "Monday, 24th March, 2025 Hansard 24th March, 2025",
+    "date_iso": "2025-03-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 25th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-25 - Hansard 25th March 2025.pdf",
+    "sha256_pdf": "cae104709ee56eb21f2bc588b2ba7192b8cfa9ea3a8d7f3e6cef95eb395f386c",
+    "pages": 163,
+    "title": "Hansard 25th March, 2025",
+    "date_text": "Tuesday, 25th March, 2025 Hansard 25th March, 2025",
+    "date_iso": "2025-03-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 26th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-26 - Hansard 26th March 2025.pdf",
+    "sha256_pdf": "2d697b62bd14f81019d51f06c60097abd817c6e15bbd201b8a02607be2b6529a",
+    "pages": 168,
+    "title": "Hansard 26th March, 2025",
+    "date_text": "Wednesday, 26th March, 2025 Hansard 26th March, 2025",
+    "date_iso": "2025-03-26",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-27 - Hansard 27th March 2025.pdf",
+    "sha256_pdf": "6d9d53731255b2087658767e32e51176923346639656750dec088db1bec5b4a1",
+    "pages": 448,
+    "title": "Hansard 27th March, 2025",
+    "date_text": "Thursday, 27th March, 2025 Hansard 27th March, 2025",
+    "date_iso": "2025-03-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-28 - Hansard 28th March 2025.pdf",
+    "sha256_pdf": "604cec5146650800cdce602f4fc1f04973f95b3be158e79c6d1f0ddde7da03e9",
+    "pages": 232,
+    "title": "Hansard 28th March, 2025",
+    "date_text": "Friday, 28th March, 2025 Hansard 28th March, 2025",
+    "date_iso": "2025-03-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th March, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-03-29 - Hansard 29th March 2025.pdf",
+    "sha256_pdf": "14ba98b2a0cdd5be232bb14b37c004a0fcc7c0c76becb95cf305488eec81030a",
+    "pages": 38,
+    "title": "Hansard 29th March, 2025",
+    "date_text": "Saturday, 29th March, 2025 Hansard 29th March, 2025",
+    "date_iso": "2025-03-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th March, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th May, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-05-27 - Hansard 27th May 2025.pdf",
+    "sha256_pdf": "b21d1efd628ea07585d2cb6575a335f61fff2991441112f687bc6ad0eeca47b7",
+    "pages": 94,
+    "title": "Hansard 27th May, 2025",
+    "date_text": "Tuesday, 27th May, 2025 Hansard 27th May, 2025",
+    "date_iso": "2025-05-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27th May, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th May, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-05-28 - Hansard 28th May 2025.pdf",
+    "sha256_pdf": "b17b54523bd839965b04f725fe2f897faecb4d83a5f51c62b5b01f1631efbe51",
+    "pages": 34,
+    "title": "Hansard 28th May, 2025",
+    "date_text": "Wednesday, 28th May, 2025 Hansard 28th May, 2025",
+    "date_iso": "2025-05-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th May, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th May, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-05-29 - Hansard 29th May 2025.pdf",
+    "sha256_pdf": "1dde47a3efe59b9627c5fe59821f294131f91b451f55aba304aa28a06d4a7c0c",
+    "pages": 44,
+    "title": "Hansard 29th May, 2025",
+    "date_text": "Thursday, 29th May, 2025 Hansard 29th May, 2025",
+    "date_iso": "2025-05-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29 May 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-04 - Hansard 4th June 2025.pdf",
+    "sha256_pdf": "03b07303183d05221dc369a9781177ad93102deb788867827894136d83a6d3aa",
+    "pages": 70,
+    "title": "Hansard 4th June, 2025",
+    "date_text": "Wednesday, 4th June, 2025 Hansard 4th June, 2025",
+    "date_iso": "2025-06-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-05 - Hansard 5th June 2025.pdf",
+    "sha256_pdf": "12549da9f1a79de3a88ba18cdc083f90c5efbcfb73326c428b3996b806246739",
+    "pages": 91,
+    "title": "Hansard 5th June, 2025",
+    "date_text": "Thursday, 5th June, 2025 Hansard 5th June, 2025",
+    "date_iso": "2025-06-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5th June 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 10th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-10 - Hansard 10th June 2025.pdf",
+    "sha256_pdf": "b5377935c2027aa66d8493826c0e8b359ab48934268dadd8db3c44dc76c7e49e",
+    "pages": 52,
+    "title": "Hansard 10th June, 2025",
+    "date_text": "Tuesday, 10th June, 2025 Hansard 10th June, 2025",
+    "date_iso": "2025-06-10",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/10th June, 2025..pdf"
+  },
+  {
+    "doc_id": "Hansard 11th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-11 - Hansard 11th June 2025.pdf",
+    "sha256_pdf": "cc72c8f414ba98a37132751f20d36ff71cbdc2573138c346017d3018378ff147",
+    "pages": 67,
+    "title": "Hansard 11th June, 2025",
+    "date_text": "Wednesday, 11th June, 2025 Hansard 11th June, 2025",
+    "date_iso": "2025-06-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th June, 2025..pdf"
+  },
+  {
+    "doc_id": "Hansard 12th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-12 - Hansard 12th June 2025.pdf",
+    "sha256_pdf": "84e5026304f7c46d2154b7fbf6debd2d9a6a5b2deb5c1c9dfc48d67273faf5d6",
+    "pages": 113,
+    "title": "Hansard 12th June, 2025",
+    "date_text": "Thursday, 12th June, 2025 Hansard 12th June, 2025",
+    "date_iso": "2025-06-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th  June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-13 - Hansard 13th June 2025.pdf",
+    "sha256_pdf": "786a80c94be1547d782ae4c88795b625a027dcd8087484a4b05c18e75a581dbf",
+    "pages": 74,
+    "title": "Hansard 13th June, 2025",
+    "date_text": "Friday, 13th June, 2025 Hansard 13th June, 2025",
+    "date_iso": "2025-06-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13th  June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-17 - Hansard 17th June 2025.pdf",
+    "sha256_pdf": "63f3b01d1a6c8cbd7870b1e34d1b18441f4c1000dba8f6a50899807093e413e0",
+    "pages": 62,
+    "title": "Hansard 17th June, 2025",
+    "date_text": "Tuesday, 17th June, 2025 Hansard 17th June, 2025",
+    "date_iso": "2025-06-17",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17th June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-18 - Hansard 18th June 2025.pdf",
+    "sha256_pdf": "37ab3960fc14f748561640100adb6c7111ff6006805d55a11c5a1840a8e5b821",
+    "pages": 99,
+    "title": "Hansard 18th June, 2025",
+    "date_text": "Wednesday, 18th June, 2025 Hansard 18th June, 2025",
+    "date_iso": "2025-06-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18th June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-19 - Hansard 19th June 2025.pdf",
+    "sha256_pdf": "e75fd35b24147196f36c829518fa57417301894789c0273e52fc10e1f7fc735b",
+    "pages": 12,
+    "title": "Hansard 19th June, 2025",
+    "date_text": "Thursday, 19th June, 2025 Hansard 19th June, 2025",
+    "date_iso": "2025-06-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th  June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-20 - Hansard 20th June 2025.pdf",
+    "sha256_pdf": "e93024451cae7a98026ac03c3dd3493997b4b474f2030c38bea68df37a84485c",
+    "pages": 57,
+    "title": "Hansard 20th June, 2025",
+    "date_text": "Friday, 20th June, 2025 Hansard 20th June, 2025",
+    "date_iso": "2025-06-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20th  June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-24 - Hansard 24th June 2025.pdf",
+    "sha256_pdf": "2abc7bc2a2e0f12e4f85b78b7f9d17a69e0cad68241f97e9d88a4c9eb688f5b4",
+    "pages": 198,
+    "title": "Hansard 24th June, 2025",
+    "date_text": "Tuesday, 24th June, 2025 Hansard 24th June, 2025",
+    "date_iso": "2025-06-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th June, 2025....pdf"
+  },
+  {
+    "doc_id": "Hansard 25th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-25 - Hansard 25th June 2025.pdf",
+    "sha256_pdf": "2d8907667ba939bc4d189330c95749c5162c79af520d1997475c338c6fa3b422",
+    "pages": 87,
+    "title": "Hansard 25th June, 2025",
+    "date_text": "Wednesday, 25th June, 2025 Hansard 25th June, 2025",
+    "date_iso": "2025-06-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25th June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 26th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-26 - Hansard 26th June 2025.pdf",
+    "sha256_pdf": "1c91e239b1393d37e3caef633faf2e67997b8679e253e7c37a89b6d5bcea5187",
+    "pages": 81,
+    "title": "Hansard 26th June, 2025",
+    "date_text": "Thursday, 26th June, 2025 Hansard 26th June, 2025",
+    "date_iso": "2025-06-26",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26th  June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th June, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-06-27 - Hansard 27th June 2025.pdf",
+    "sha256_pdf": "e5b9ac063f1a59fee355155f6117bdfef639bb6c2b823d1544e1f59133187e62",
+    "pages": 61,
+    "title": "Hansard 27th June, 2025",
+    "date_text": "Friday, 27th June, 2025 Hansard 27th June, 2025",
+    "date_iso": "2025-06-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27th June, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 1st July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-01 - Hansard 1st July 2025.pdf",
+    "sha256_pdf": "f4b6d2a5fe6336ebd3af39d2c9f647ba571427a5da7330fb9a9c94ce7101bc98",
+    "pages": 104,
+    "title": "Hansard 1st July, 2025",
+    "date_text": "Tuesday, 1st July, 2025 Hansard 1st July, 2025",
+    "date_iso": "2025-07-01",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/1st July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 2nd July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-02 - Hansard 2nd July 2025.pdf",
+    "sha256_pdf": "0f5516bf2ac99657b66186f9fca9acbd985172634ba5e81394c87dedbdcbb203",
+    "pages": 95,
+    "title": "Hansard 2nd July, 2025",
+    "date_text": "Wednesday, 2nd July, 2025 Hansard 2nd July, 2025",
+    "date_iso": "2025-07-02",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/2nd July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 3rd July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-03 - Hansard 3rd July 2025.pdf",
+    "sha256_pdf": "79de9ba8ea4d63373f24f0554e4dba7191939b8c8c7cd7a5afab6af6feaae762",
+    "pages": 49,
+    "title": "Hansard 3rd July, 2025",
+    "date_text": "Thursday, 3rd July, 2025 Hansard 3rd July, 2025",
+    "date_iso": "2025-07-03",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3rd July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-07 - Hansard 7th July 2025.pdf",
+    "sha256_pdf": "4bee0e7891b4ead2a69455a1f883ab5a1613aecb711b51a0389d753bb915998a",
+    "pages": 7,
+    "title": "Hansard 7th July, 2025",
+    "date_text": "Monday, 7th July, 2025 Hansard 7th July, 2025",
+    "date_iso": "2025-07-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 9th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-09 - Hansard 9th July 2025.pdf",
+    "sha256_pdf": "01f8de036d7d9235cf709ebbb53a2a0f523002272b4f2785489f6fce18bfb328",
+    "pages": 86,
+    "title": "Hansard 9th July, 2025",
+    "date_text": "Wednesday, 9th July, 2025 Hansard 9th July, 2025",
+    "date_iso": "2025-07-09",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/9th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 10th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-10 - Hansard 10th July 2025.pdf",
+    "sha256_pdf": "ac3d47059b7a4c74c6acd64cfd59ca70bc3d6b6bf35b7bbc438440cc9e0ae2e5",
+    "pages": 79,
+    "title": "Hansard 10th July, 2025",
+    "date_text": "Thursday, 10th July, 2025 Hansard 10th July, 2025",
+    "date_iso": "2025-07-10",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/10th July, 2025..pdf"
+  },
+  {
+    "doc_id": "Hansard 11th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-11 - Hansard 11th July 2025.pdf",
+    "sha256_pdf": "8fac97819f9125c48960c52d35a3b2ad3b064acc56911af2e0026afecbaece72",
+    "pages": 111,
+    "title": "Hansard 11th July, 2025",
+    "date_text": "Friday, 11th July, 2025 Hansard 11th July, 2025",
+    "date_iso": "2025-07-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-12 - Hansard 12th July 2025.pdf",
+    "sha256_pdf": "4fca8f7df66d9e157faac9937b0a8ff3939d09d2be0deab10715fd0bc5984abd",
+    "pages": 60,
+    "title": "Hansard 12th July, 2025",
+    "date_text": "Saturday, 12th July, 2025 Hansard 12th July, 2025",
+    "date_iso": "2025-07-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-14 - Hansard 14th July 2025.pdf",
+    "sha256_pdf": "fdcb3fc7c0aeb710751d7990cc1049f92526d8c3969c8ccc1b2751b198c08b4f",
+    "pages": 70,
+    "title": "Hansard 14th July, 2025",
+    "date_text": "Monday, 14th July, 2025 Hansard 14th July, 2025",
+    "date_iso": "2025-07-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 16th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-16 - Hansard 16th July 2025.pdf",
+    "sha256_pdf": "674eef9c94e0bf5b1d00ec1a71800113fc234c18e26839982ae382484dcb745d",
+    "pages": 108,
+    "title": "Hansard 16th July, 2025",
+    "date_text": "Wednesday, 16th July, 2025 Hansard 16th July, 2025",
+    "date_iso": "2025-07-16",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/16th July 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 17th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-17 - Hansard 17th July 2025.pdf",
+    "sha256_pdf": "fd1b88154a43997e05c9453f3b5e6042d0bf5a660e8890ca5c06f9ede0439621",
+    "pages": 63,
+    "title": "Hansard 17th July, 2025",
+    "date_text": "Thursday, 17th July, 2025 Hansard 17th July, 2025",
+    "date_iso": "2025-07-17",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/17th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-18 - Hansard 18th July 2025.pdf",
+    "sha256_pdf": "1d90161e8c2c2bdaa834eebb7b2dac03ce73aa5cedf3d5ae45db62a97fb16a31",
+    "pages": 96,
+    "title": "Hansard 18th July, 2025",
+    "date_text": "Friday, 18th July, 2025 Hansard 18th July, 2025",
+    "date_iso": "2025-07-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-21 - Hansard 21st July 2025.pdf",
+    "sha256_pdf": "2a1836d37fe31745f6af0d713cf40e9226ed9ffe38d1298083fb49471e5d83cf",
+    "pages": 129,
+    "title": "Hansard 21st July, 2025",
+    "date_text": "Monday, 21st July, 2025 Hansard 21st July, 2025",
+    "date_iso": "2025-07-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-22 - Hansard 22nd July 2025.pdf",
+    "sha256_pdf": "4dcc0852dcc5e801e01d627cf789d72c6fa5812daac42241a729e9f3ce0b6c76",
+    "pages": 80,
+    "title": "Hansard 22nd July, 2025",
+    "date_text": "Tuesday, 22nd July, 2025 Hansard 22nd July, 2025",
+    "date_iso": "2025-07-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22nd July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 23rd July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-23 - Hansard 23rd July 2025.pdf",
+    "sha256_pdf": "c390fadea48ef24538f704b82370950ab40d17df012ea7de459aad82dda5cd69",
+    "pages": 136,
+    "title": "Hansard 23rd July, 2025",
+    "date_text": "Wednesday, 23rd July, 2025 Hansard 23rd July, 2025",
+    "date_iso": "2025-07-23",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/23rd July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-24 - Hansard 24th July 2025.pdf",
+    "sha256_pdf": "289fa95ff0c6a290e9840fd40555710b53767663e68f85f9abb9b2f683faf371",
+    "pages": 136,
+    "title": "Hansard 24th July, 2025",
+    "date_text": "Thursday, 24th July, 2025 Hansard 24th July, 2025",
+    "date_iso": "2025-07-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th July 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 25th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-25 - Hansard 25th July 2025.pdf",
+    "sha256_pdf": "217f0c90ad02f0f71a5a8fd57ce4d2deb97070e6c3fc77f4be86456c6f3723c2",
+    "pages": 166,
+    "title": "Hansard 25th July, 2025",
+    "date_text": "Friday, 25th July, 2025 Hansard 25th July, 2025",
+    "date_iso": "2025-07-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-28 - Hansard 28th July 2025.pdf",
+    "sha256_pdf": "9da0c79266e39807cec9f6865215f90e2d36ef8e3427c9d9d3ef60ae135937eb",
+    "pages": 75,
+    "title": "Hansard 28th July, 2025",
+    "date_text": "Monday, 28th July, 2025 Hansard 28th July, 2025",
+    "date_iso": "2025-07-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-29 - Hansard 29th July 2025.pdf",
+    "sha256_pdf": "2305d0e6a540bab58a90e864409cca8fe670cc324fc8d5b10ba134a258675e42",
+    "pages": 129,
+    "title": "Hansard 29th July, 2025",
+    "date_text": "Tuesday, 29th July, 2025 Hansard 29th July, 2025",
+    "date_iso": "2025-07-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard  30th July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-30 - Hansard 30th July 2025.pdf",
+    "sha256_pdf": "dff4571f96a0c9d7265906fba17679b935006ecfb10abc19742dff121af4c1f3",
+    "pages": 142,
+    "title": "Hansard  30th July, 2025",
+    "date_text": "Wednesday, 30th July, 2025 Hansard  30th July, 2025",
+    "date_iso": "2025-07-30",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/30th July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard  31st July, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-07-31 - Hansard 31st July 2025.pdf",
+    "sha256_pdf": "2a3f3714ceee27f94764f5b43c5dbe5e79235ee71bb6a51755e4c9737823e188",
+    "pages": 55,
+    "title": "Hansard  31st July, 2025",
+    "date_text": "Thursday, 31st July, 2025 Hansard  31st July, 2025",
+    "date_iso": "2025-07-31",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/31st  July, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 1st August, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-08-01 - Hansard 1st August 2025.pdf",
+    "sha256_pdf": "7507cb26d8f6aeeef41c7101db46de1610cb95353fa6288184f26acbcf31ad75",
+    "pages": 43,
+    "title": "Hansard 1st August, 2025",
+    "date_text": "Friday, 1st August, 2025 Hansard 1st August, 2025",
+    "date_iso": "2025-08-01",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/1st August, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-21 - Hansard 21st October 2025.pdf",
+    "sha256_pdf": "7baef46956d6a7cd5bc9b5cdb00f3ed74740b504b0fbd46d47ef08b4c18bfdfc",
+    "pages": 89,
+    "title": "Hansard 21st October, 2025",
+    "date_text": "Tuesday, 21st October, 2025 Hansard 21st October, 2025",
+    "date_iso": "2025-10-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st  October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 22nd October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-22 - Hansard 22nd October 2025.pdf",
+    "sha256_pdf": "5349444939f950dd438d2a7f41d5f28cd4ca313f0d22f987ef6c50e078e65ab6",
+    "pages": 36,
+    "title": "Hansard 22nd October, 2025",
+    "date_text": "Wednesday, 22nd October, 2025 Hansard 22nd October, 2025",
+    "date_iso": "2025-10-22",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/22nd October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 23rd October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-23 - Hansard 23rd October 2025.pdf",
+    "sha256_pdf": "5948155a9c246f323bcc47d8003584b5c9bf5421d5dc6774b89a83379bc54b26",
+    "pages": 11,
+    "title": "Hansard 23rd October, 2025",
+    "date_text": "Thursday, 23rd October, 2025 Hansard 23rd October, 2025",
+    "date_iso": "2025-10-23",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/23rd October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 24th October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-24 - Hansard 24th October 2025.pdf",
+    "sha256_pdf": "4cbef90d26bc6306a20d8b4c8829f0ada068d387aa468e316d539350e64e9d46",
+    "pages": 26,
+    "title": "Hansard 24th October, 2025",
+    "date_text": "Friday, 24th October, 2025 Hansard 24th October, 2025",
+    "date_iso": "2025-10-24",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/24th October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-28 - Hansard 28th October 2025.pdf",
+    "sha256_pdf": "70299c7d3e0b9126d4b3bca1e1f51a2dd3486537bef596382223d6be330ac139",
+    "pages": 59,
+    "title": "Hansard 28th October, 2025",
+    "date_text": "Tuesday, 28th October, 2025 Hansard 28th October, 2025",
+    "date_iso": "2025-10-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 29th October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-29 - Hansard 29th October 2025.pdf",
+    "sha256_pdf": "faf2e1b465beca3670b8456317fe0e61b4fd2a39376759ad85b6c5592101c911",
+    "pages": 55,
+    "title": "Hansard 29th October, 2025",
+    "date_text": "Wednesday, 29th October, 2025 Hansard 29th October, 2025",
+    "date_iso": "2025-10-29",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/29th October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 30th October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-30 - Hansard 30th October 2025.pdf",
+    "sha256_pdf": "d2d7dbbffae072d98ccd7de065c066177541bce1f17b106a9b134185bd9c3d86",
+    "pages": 47,
+    "title": "Hansard 30th October, 2025",
+    "date_text": "Thursday, 30th October, 2025 Hansard 30th October, 2025",
+    "date_iso": "2025-10-30",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/30th October, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 31st October, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-10-31 - Hansard 31st October 2025.pdf",
+    "sha256_pdf": "287b4cfc51019b498f2bde4eefe5d59beca55c2764f2ef5fc3b311641737015d",
+    "pages": 51,
+    "title": "Hansard 31st October, 2025",
+    "date_text": "Friday, 31st October, 2025 Hansard 31st October, 2025",
+    "date_iso": "2025-10-31",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/31st October 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-04 - Hansard 4th November 2025.pdf",
+    "sha256_pdf": "856025018f8fb96a06812de831c33e1cc8a6b8330ac2b34b50aa4e8af8b36502",
+    "pages": 66,
+    "title": "Hansard 4th November, 2025",
+    "date_text": "Tuesday, 4th November, 2025 Hansard 4th November, 2025",
+    "date_iso": "2025-11-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 5th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-05 - Hansard 5th November 2025.pdf",
+    "sha256_pdf": "75aff1ac567b9dceb19e03fc4d37977a51b46dfe97ffa5068ba5fbb1ae4be3a0",
+    "pages": 29,
+    "title": "Hansard 5th November, 2025",
+    "date_text": "Wednesday, 5th November, 2025 Hansard 5th November, 2025",
+    "date_iso": "2025-11-05",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/5th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 6th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-06 - Hansard 6th November 2025.pdf",
+    "sha256_pdf": "9b7a1c8b217294fb920cb29197f80b077aa9c64f4d029290b27b90f42d817beb",
+    "pages": 61,
+    "title": "Hansard 6th November, 2025",
+    "date_text": "Thursday, 6th November, 2025 Hansard 6th November, 2025",
+    "date_iso": "2025-11-06",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/6th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 7th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-07 - Hansard 7th November 2025.pdf",
+    "sha256_pdf": "21b46200490855ed88de68fbbca8dfcd71bb238f45631fb65fc192b3ff2806e8",
+    "pages": 86,
+    "title": "Hansard 7th November, 2025",
+    "date_text": "Friday, 7th November, 2025 Hansard 7th November, 2025",
+    "date_iso": "2025-11-07",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/7th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-11 - Hansard 11th November 2025.pdf",
+    "sha256_pdf": "ed78b1f10191ea358570a3a5c3ffe5669f69d05e7eb615a473213800b0f2837c",
+    "pages": 78,
+    "title": "Hansard 11th November, 2025",
+    "date_text": "Tuesday, 11th November, 2025 Hansard 11th November, 2025",
+    "date_iso": "2025-11-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-12 - Hansard 12th November 2025.pdf",
+    "sha256_pdf": "27980433409026b1e8198b2d7109fe4b8bb091855b272bc3c9942dedc12378a7",
+    "pages": 64,
+    "title": "Hansard 12th November, 2025",
+    "date_text": "Wednesday, 12th November, 2025 Hansard 12th November, 2025",
+    "date_iso": "2025-11-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 13th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-13 - Hansard 13th November 2025.pdf",
+    "sha256_pdf": "bc12adcd39d002258fd5cf23556c7568f0529c081d3a4d12564ccead3a64851f",
+    "pages": 422,
+    "title": "Hansard 13th November, 2025",
+    "date_text": "Thursday, 13th November, 2025 Hansard 13th November, 2025",
+    "date_iso": "2025-11-13",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/13th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 14th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-14 - Hansard 14th November 2025.pdf",
+    "sha256_pdf": "15e067ec2f92cecee25aacbb62755cdb959e53d86fcbb3b192f2ca7bcc46f8ef",
+    "pages": 56,
+    "title": "Hansard 14th November, 2025",
+    "date_text": "Friday, 14th November, 2025 Hansard 14th November, 2025",
+    "date_iso": "2025-11-14",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/14th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 18th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-18 - Hansard 18th November 2025.pdf",
+    "sha256_pdf": "5d34d2a7c208ae628d6efcd24e15ad0ab7e49421b18c917a16c461fbc64282aa",
+    "pages": 158,
+    "title": "Hansard 18th November, 2025",
+    "date_text": "Tuesday, 18th November, 2025 Hansard 18th November, 2025",
+    "date_iso": "2025-11-18",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/18th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 19th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-19 - Hansard 19th November 2025.pdf",
+    "sha256_pdf": "d2b2df265da2896a48f760f5eec88cd281269be68f95951855e631465fcee3d4",
+    "pages": 142,
+    "title": "Hansard 19th November, 2025",
+    "date_text": "Wednesday, 19th November, 2025 Hansard 19th November, 2025",
+    "date_iso": "2025-11-19",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/19th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 20th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-20 - Hansard 20th November 2025.pdf",
+    "sha256_pdf": "15c705ee6777e26454cac7b9782bcacfc81f8fb0128a7678da9920a52b8813f0",
+    "pages": 97,
+    "title": "Hansard 20th November, 2025",
+    "date_text": "Thursday, 20th November, 2025 Hansard 20th November, 2025",
+    "date_iso": "2025-11-20",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/20th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 21st November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-21 - Hansard 21st November 2025.pdf",
+    "sha256_pdf": "6bb06f94c722eb72d17f591f2cb5cee01bdddaff4f92b177281e8b869b04a7a7",
+    "pages": 81,
+    "title": "Hansard 21st November, 2025",
+    "date_text": "Friday, 21st November, 2025 Hansard 21st November, 2025",
+    "date_iso": "2025-11-21",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/21st November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 25th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-25 - Hansard 25th November 2025.pdf",
+    "sha256_pdf": "39116e506e5c10cb50b416f81bd29899cc0cdba9891da0352a24348577782441",
+    "pages": 147,
+    "title": "Hansard 25th November, 2025",
+    "date_text": "Tuesday, 25th November, 2025 Hansard 25th November, 2025",
+    "date_iso": "2025-11-25",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/25th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 26th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-26 - Hansard 26th November 2025.pdf",
+    "sha256_pdf": "c3550d590f1c02ab826a61b42b1d6edd4304390ef5191d6da111396f6ee04ddf",
+    "pages": 59,
+    "title": "Hansard 26th November, 2025",
+    "date_text": "Wednesday, 26th November, 2025 Hansard 26th November, 2025",
+    "date_iso": "2025-11-26",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/26th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 27th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-27 - Hansard 27th November 2025.pdf",
+    "sha256_pdf": "dacc133ad61b83c6519356336d5f0d93e98005f8c815b9547b677fbd3cb20eeb",
+    "pages": 62,
+    "title": "Hansard 27th November, 2025",
+    "date_text": "Thursday, 27th November, 2025 Hansard 27th November, 2025",
+    "date_iso": "2025-11-27",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/27th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 28th November, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-11-28 - Hansard 28th November 2025.pdf",
+    "sha256_pdf": "064b616f5352113d206dc421e1cf4160c332c76123995e1ada539a3aa55212b4",
+    "pages": 45,
+    "title": "Hansard 28th November, 2025",
+    "date_text": "Friday, 28th November, 2025 Hansard 28th November, 2025",
+    "date_iso": "2025-11-28",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/28th November, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 2nd December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-02 - Hansard 2nd December 2025.pdf",
+    "sha256_pdf": "2ece9d96927c858ea0b5527f9046a4ef4f6c12d240fb5985a1158c275eadb8b9",
+    "pages": 136,
+    "title": "Hansard 2nd December, 2025",
+    "date_text": "Tuesday, 2nd December, 2025 Hansard 2nd December, 2025",
+    "date_iso": "2025-12-02",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/2nd December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 3rd December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-03 - Hansard 3rd December 2025.pdf",
+    "sha256_pdf": "36c03c1d188ebbe419c39ff43c0b41b623d8d3ec90beab76a055a2776048bdfe",
+    "pages": 185,
+    "title": "Hansard 3rd December, 2025",
+    "date_text": "Wednesday, 3rd December, 2025 Hansard 3rd December, 2025",
+    "date_iso": "2025-12-03",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/3rd December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 4th December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-04 - Hansard 4th December 2025.pdf",
+    "sha256_pdf": "eaf582ce67145b3f4629d617d30f46b151b109f99cb0b6ef6bc4dd7df92af2d8",
+    "pages": 140,
+    "title": "Hansard 4th December, 2025",
+    "date_text": "Thursday, 4th December, 2025 Hansard 4th December, 2025",
+    "date_iso": "2025-12-04",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/4th December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 9th December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-09 - Hansard 9th December 2025.pdf",
+    "sha256_pdf": "847d8299801d5271d1d5832341fad463decb6f1393e058ad2fe62b4708a3ac7d",
+    "pages": 318,
+    "title": "Hansard 9th December, 2025",
+    "date_text": "Tuesday, 9th December, 2025 Hansard 9th December, 2025",
+    "date_iso": "2025-12-09",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/9th December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 10th December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-10 - Hansard 10th December 2025.pdf",
+    "sha256_pdf": "dcd8ac06c0d57b2c4a5d5d3c48df1561b2d66eaa10efc1966abab9d2420718ba",
+    "pages": 32,
+    "title": "Hansard 10th December, 2025",
+    "date_text": "Wednesday, 10th December, 2025 Hansard 10th December, 2025",
+    "date_iso": "2025-12-10",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/10th December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 11th December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-11 - Hansard 11th December 2025.pdf",
+    "sha256_pdf": "bb33c626db426627b4dcbd592d471c7f36e0c4322b61bcaa6867e2f30e1023f4",
+    "pages": 153,
+    "title": "Hansard 11th December, 2025",
+    "date_text": "Thursday, 11th December, 2025 Hansard 11th December, 2025",
+    "date_iso": "2025-12-11",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/11th December, 2025.pdf"
+  },
+  {
+    "doc_id": "Hansard 12th December, 2025",
+    "pdf_path": "data/corpus/clean/pdfs/2025-12-12 - Hansard 12th December 2025.pdf",
+    "sha256_pdf": "29224e6d1f17392dc9433028d04c61d733765b0886fe9b47c04ec849b858b5fe",
+    "pages": 67,
+    "title": "Hansard 12th December, 2025",
+    "date_text": "Friday, 12th December, 2025 Hansard 12th December, 2025",
+    "date_iso": "2025-12-12",
+    "source_url": "https://www.parliament.gh/epanel/docs/pb/12th  December, 2025.pdf"
+  }
+]

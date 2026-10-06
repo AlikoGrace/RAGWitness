@@ -1,0 +1,588 @@
+{
+  "n_runs": 90,
+  "levels_present": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "note": "Paired t-tests: each attack scenario run at every level, so L_a and L_b observations are paired by attack_id. Cohen's d is the paired variant (mean_diff / sd_diff). Storage overhead normalised to L1 mean.",
+  "descriptive": {
+    "evidence_completeness": [
+      {
+        "level": 1,
+        "n": 18,
+        "mean": 0.2619,
+        "sd": 0.1975,
+        "ci95_lo": 0.1637,
+        "ci95_hi": 0.3601
+      },
+      {
+        "level": 2,
+        "n": 18,
+        "mean": 0.5,
+        "sd": 0.2205,
+        "ci95_lo": 0.3903,
+        "ci95_hi": 0.6097
+      },
+      {
+        "level": 3,
+        "n": 18,
+        "mean": 0.5,
+        "sd": 0.2205,
+        "ci95_lo": 0.3903,
+        "ci95_hi": 0.6097
+      },
+      {
+        "level": 4,
+        "n": 18,
+        "mean": 0.7143,
+        "sd": 0.0,
+        "ci95_lo": 0.7143,
+        "ci95_hi": 0.7143
+      },
+      {
+        "level": 5,
+        "n": 18,
+        "mean": 1.0,
+        "sd": 0.0,
+        "ci95_lo": 1.0,
+        "ci95_hi": 1.0
+      }
+    ],
+    "attribution_accuracy": [
+      {
+        "level": 1,
+        "n": 18,
+        "mean": 0.7222,
+        "sd": 0.4609,
+        "ci95_lo": 0.493,
+        "ci95_hi": 0.9514
+      },
+      {
+        "level": 2,
+        "n": 18,
+        "mean": 0.9444,
+        "sd": 0.2357,
+        "ci95_lo": 0.8272,
+        "ci95_hi": 1.0617
+      },
+      {
+        "level": 3,
+        "n": 18,
+        "mean": 0.9444,
+        "sd": 0.2357,
+        "ci95_lo": 0.8272,
+        "ci95_hi": 1.0617
+      },
+      {
+        "level": 4,
+        "n": 18,
+        "mean": 0.9444,
+        "sd": 0.2357,
+        "ci95_lo": 0.8272,
+        "ci95_hi": 1.0617
+      },
+      {
+        "level": 5,
+        "n": 18,
+        "mean": 0.9444,
+        "sd": 0.2357,
+        "ci95_lo": 0.8272,
+        "ci95_hi": 1.0617
+      }
+    ],
+    "reconstruction_fidelity": [
+      {
+        "level": 1,
+        "n": 18,
+        "mean": 0.4286,
+        "sd": 0.0,
+        "ci95_lo": 0.4286,
+        "ci95_hi": 0.4286
+      },
+      {
+        "level": 2,
+        "n": 18,
+        "mean": 0.5714,
+        "sd": 0.0,
+        "ci95_lo": 0.5714,
+        "ci95_hi": 0.5714
+      },
+      {
+        "level": 3,
+        "n": 18,
+        "mean": 0.7143,
+        "sd": 0.0,
+        "ci95_lo": 0.7143,
+        "ci95_hi": 0.7143
+      },
+      {
+        "level": 4,
+        "n": 18,
+        "mean": 0.7143,
+        "sd": 0.0,
+        "ci95_lo": 0.7143,
+        "ci95_hi": 0.7143
+      },
+      {
+        "level": 5,
+        "n": 18,
+        "mean": 1.0,
+        "sd": 0.0,
+        "ci95_lo": 1.0,
+        "ci95_hi": 1.0
+      }
+    ],
+    "investigation_time_seconds": [
+      {
+        "level": 1,
+        "n": 18,
+        "mean": 0.0118,
+        "sd": 0.0472,
+        "ci95_lo": -0.0116,
+        "ci95_hi": 0.0353
+      },
+      {
+        "level": 2,
+        "n": 18,
+        "mean": 0.0008,
+        "sd": 0.0002,
+        "ci95_lo": 0.0007,
+        "ci95_hi": 0.0009
+      },
+      {
+        "level": 3,
+        "n": 18,
+        "mean": 0.0008,
+        "sd": 0.0003,
+        "ci95_lo": 0.0007,
+        "ci95_hi": 0.001
+      },
+      {
+        "level": 4,
+        "n": 18,
+        "mean": 0.0022,
+        "sd": 0.0007,
+        "ci95_lo": 0.0018,
+        "ci95_hi": 0.0026
+      },
+      {
+        "level": 5,
+        "n": 18,
+        "mean": 0.0024,
+        "sd": 0.0008,
+        "ci95_lo": 0.0019,
+        "ci95_hi": 0.0028
+      }
+    ],
+    "storage_overhead_normalised": [
+      {
+        "level": 1,
+        "n": 18,
+        "mean": 1.0,
+        "sd": 0.0747,
+        "ci95_lo": 0.9628,
+        "ci95_hi": 1.0372
+      },
+      {
+        "level": 2,
+        "n": 18,
+        "mean": 1.186,
+        "sd": 0.0951,
+        "ci95_lo": 1.1387,
+        "ci95_hi": 1.2333
+      },
+      {
+        "level": 3,
+        "n": 18,
+        "mean": 1.5368,
+        "sd": 0.0831,
+        "ci95_lo": 1.4954,
+        "ci95_hi": 1.5781
+      },
+      {
+        "level": 4,
+        "n": 18,
+        "mean": 3.8322,
+        "sd": 0.3017,
+        "ci95_lo": 3.6821,
+        "ci95_hi": 3.9822
+      },
+      {
+        "level": 5,
+        "n": 18,
+        "mean": 7.2308,
+        "sd": 1.0666,
+        "ci95_lo": 6.7004,
+        "ci95_hi": 7.7612
+      }
+    ]
+  },
+  "pairwise_tests": {
+    "evidence_completeness": [
+      {
+        "comparison": "L1_vs_L2",
+        "n_pairs": 18,
+        "mean_a": 0.2619,
+        "mean_b": 0.5,
+        "mean_diff": 0.2381,
+        "t_stat": -5.5097,
+        "p_value": 3.8e-05,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 1.2987,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L2_vs_L3",
+        "n_pairs": 18,
+        "mean_a": 0.5,
+        "mean_b": 0.5,
+        "mean_diff": 0.0,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.0000. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L3_vs_L4",
+        "n_pairs": 18,
+        "mean_a": 0.5,
+        "mean_b": 0.7143,
+        "mean_diff": 0.2143,
+        "t_stat": -4.1231,
+        "p_value": 0.00071,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 0.9718,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L4_vs_L5",
+        "n_pairs": 18,
+        "mean_a": 0.7143,
+        "mean_b": 1.0,
+        "mean_diff": 0.2857,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.2857. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      }
+    ],
+    "attribution_accuracy": [
+      {
+        "comparison": "L1_vs_L2",
+        "n_pairs": 18,
+        "mean_a": 0.7222,
+        "mean_b": 0.9444,
+        "mean_diff": 0.2222,
+        "t_stat": -2.2039,
+        "p_value": 0.041605,
+        "p_label": "p<0.05",
+        "significant": true,
+        "cohens_d": 0.5195,
+        "effect_size": "medium"
+      },
+      {
+        "comparison": "L2_vs_L3",
+        "n_pairs": 18,
+        "mean_a": 0.9444,
+        "mean_b": 0.9444,
+        "mean_diff": 0.0,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.0000. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L3_vs_L4",
+        "n_pairs": 18,
+        "mean_a": 0.9444,
+        "mean_b": 0.9444,
+        "mean_diff": 0.0,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.0000. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L4_vs_L5",
+        "n_pairs": 18,
+        "mean_a": 0.9444,
+        "mean_b": 0.9444,
+        "mean_diff": 0.0,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.0000. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      }
+    ],
+    "reconstruction_fidelity": [
+      {
+        "comparison": "L1_vs_L2",
+        "n_pairs": 18,
+        "mean_a": 0.4286,
+        "mean_b": 0.5714,
+        "mean_diff": 0.1429,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.1429. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L2_vs_L3",
+        "n_pairs": 18,
+        "mean_a": 0.5714,
+        "mean_b": 0.7143,
+        "mean_diff": 0.1429,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.1429. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L3_vs_L4",
+        "n_pairs": 18,
+        "mean_a": 0.7143,
+        "mean_b": 0.7143,
+        "mean_diff": 0.0,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.0000. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      },
+      {
+        "comparison": "L4_vs_L5",
+        "n_pairs": 18,
+        "mean_a": 0.7143,
+        "mean_b": 1.0,
+        "mean_diff": 0.2857,
+        "t_stat": null,
+        "p_value": null,
+        "p_label": "constant_effect",
+        "significant": true,
+        "cohens_d": null,
+        "effect_size": "constant",
+        "note": "Every scenario improved by exactly +0.2857. Zero variance in differences \u2014 parametric test not applicable. The effect is deterministic at this level transition."
+      }
+    ],
+    "investigation_time_seconds": [
+      {
+        "comparison": "L1_vs_L2",
+        "n_pairs": 18,
+        "mean_a": 0.0118,
+        "mean_b": 0.0008,
+        "mean_diff": -0.0111,
+        "t_stat": 0.9977,
+        "p_value": 0.3324,
+        "p_label": "p=0.332 (ns)",
+        "significant": false,
+        "cohens_d": -0.2352,
+        "effect_size": "small"
+      },
+      {
+        "comparison": "L2_vs_L3",
+        "n_pairs": 18,
+        "mean_a": 0.0008,
+        "mean_b": 0.0008,
+        "mean_diff": 0.0001,
+        "t_stat": -0.6668,
+        "p_value": 0.513868,
+        "p_label": "p=0.514 (ns)",
+        "significant": false,
+        "cohens_d": 0.1572,
+        "effect_size": "negligible"
+      },
+      {
+        "comparison": "L3_vs_L4",
+        "n_pairs": 18,
+        "mean_a": 0.0008,
+        "mean_b": 0.0022,
+        "mean_diff": 0.0014,
+        "t_stat": -6.8906,
+        "p_value": 3e-06,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 1.6241,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L4_vs_L5",
+        "n_pairs": 18,
+        "mean_a": 0.0022,
+        "mean_b": 0.0024,
+        "mean_diff": 0.0002,
+        "t_stat": -1.1718,
+        "p_value": 0.257444,
+        "p_label": "p=0.257 (ns)",
+        "significant": false,
+        "cohens_d": 0.2762,
+        "effect_size": "small"
+      }
+    ],
+    "storage_overhead_normalised": [
+      {
+        "comparison": "L1_vs_L2",
+        "n_pairs": 18,
+        "mean_a": 1.0,
+        "mean_b": 1.186,
+        "mean_diff": 0.186,
+        "t_stat": -17.7018,
+        "p_value": 0.0,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 4.1724,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L2_vs_L3",
+        "n_pairs": 18,
+        "mean_a": 1.186,
+        "mean_b": 1.5368,
+        "mean_diff": 0.3508,
+        "t_stat": -29.9548,
+        "p_value": 0.0,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 7.0604,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L3_vs_L4",
+        "n_pairs": 18,
+        "mean_a": 1.5368,
+        "mean_b": 3.8322,
+        "mean_diff": 2.2954,
+        "t_stat": -38.2695,
+        "p_value": 0.0,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 9.0202,
+        "effect_size": "large"
+      },
+      {
+        "comparison": "L4_vs_L5",
+        "n_pairs": 18,
+        "mean_a": 3.8322,
+        "mean_b": 7.2308,
+        "mean_diff": 3.3986,
+        "t_stat": -13.234,
+        "p_value": 0.0,
+        "p_label": "p<0.001",
+        "significant": true,
+        "cohens_d": 3.1193,
+        "effect_size": "large"
+      }
+    ]
+  },
+  "l1_vs_l5_summary": {
+    "evidence_completeness": {
+      "mean_L1": 0.2619,
+      "mean_L5": 1.0,
+      "mean_diff": 0.7381,
+      "t_stat": -15.8537,
+      "p_value": 0.0,
+      "p_label": "p<0.001",
+      "cohens_d": 3.7367,
+      "effect_size": "large"
+    },
+    "attribution_accuracy": {
+      "mean_L1": 0.7222,
+      "mean_L5": 0.9444,
+      "mean_diff": 0.2222,
+      "t_stat": -2.2039,
+      "p_value": 0.041605,
+      "p_label": "p<0.05",
+      "cohens_d": 0.5195,
+      "effect_size": "medium"
+    },
+    "reconstruction_fidelity": {
+      "mean_L1": 0.4286,
+      "mean_L5": 1.0,
+      "mean_diff": 0.5714,
+      "t_stat": null,
+      "p_value": null,
+      "p_label": "constant_effect",
+      "cohens_d": null,
+      "effect_size": "constant",
+      "note": "Every scenario improved by exactly +0.5714. Deterministic effect \u2014 zero variance in differences."
+    }
+  },
+  "correlations": [
+    {
+      "pair": "evidence_completeness \u00d7 attribution_accuracy",
+      "n": 90,
+      "r": 0.2957,
+      "p_value": 0.004666,
+      "p_label": "p<0.01",
+      "significant": true
+    },
+    {
+      "pair": "evidence_completeness \u00d7 reconstruction_fidelity",
+      "n": 90,
+      "r": 0.8023,
+      "p_value": 0.0,
+      "p_label": "p<0.001",
+      "significant": true
+    },
+    {
+      "pair": "storage_overhead_normalised \u00d7 reconstruction_fidelity",
+      "n": 90,
+      "r": 0.888,
+      "p_value": 0.0,
+      "p_label": "p<0.001",
+      "significant": true
+    },
+    {
+      "pair": "storage_overhead_normalised \u00d7 evidence_completeness",
+      "n": 90,
+      "r": 0.7729,
+      "p_value": 0.0,
+      "p_label": "p<0.001",
+      "significant": true
+    }
+  ],
+  "by_attack_type": {
+    "direct": {
+      "evidence_completeness": 0.7429,
+      "attribution_accuracy": 1.0,
+      "reconstruction_fidelity": 0.6857
+    },
+    "indirect": {
+      "evidence_completeness": 0.6229,
+      "attribution_accuracy": 0.64,
+      "reconstruction_fidelity": 0.6857
+    },
+    "baseline": {
+      "evidence_completeness": 0.4857,
+      "attribution_accuracy": 1.0,
+      "reconstruction_fidelity": 0.6857
+    }
+  }
+}

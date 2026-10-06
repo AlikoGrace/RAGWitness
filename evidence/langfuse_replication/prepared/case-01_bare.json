@@ -1,0 +1,9 @@
+{
+  "name": "case-01",
+  "input": {
+    "query": "What did Parliament say about education policy?"
+  },
+  "output": {
+    "answer": "Parliament discussed education policy, specifically the Free Senior High School (FSHS) Programme, which was initiated by the previous Government. They highlighted its benefits in reducing financial burdens on parents and increasing access to education.\n\nRegarding school placement, Parliament noted that the computer school placement was released on Tuesday, 28th November, but many students were posted far away from their homes, causing difficulties for parents who needed time to make arrangements.\n\nParliament also emphasized the importance of compulsory basic education for every child of school-going age and the need to address the deteriorating quality of education in the country. They suggested that the Committee on Education engage with the Hon Minister to assess the subject matter further.\n\n[chunk_id: 2fc50d4e2a88b6bf595eef06a7e0ea916fc876c9f0060a7868a860ee4fe7bf99:44]\n[chunk_id: dfb854d2e036ec0d7e95b53e94c88bfc469f0184a4bc76853bf8d865ecd5540c:74]\n[chunk_id: 09e40dc218eabe6140d3da9f41fa5089177303b29afff412bbf04b7939384856:52]"
+  }
+}

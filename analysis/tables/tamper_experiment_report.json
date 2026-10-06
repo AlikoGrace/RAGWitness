@@ -1,0 +1,122 @@
+{
+  "reference_run": "runs/20260512_152656_rag_L5_D4_ad2ccd",
+  "ca_verification": {
+    "ok": true,
+    "chain_valid": true,
+    "sig_valid": true,
+    "sig_error": null,
+    "gen_time": "2026-05-12T17:05:25+00:00",
+    "n_certs_in_token": 3,
+    "chain_links": [
+      {
+        "link": "cert[1] signed by cert[0]",
+        "status": "VALID"
+      },
+      {
+        "link": "cert[2] signed by cert[1]",
+        "status": "VALID"
+      }
+    ],
+    "certs": [
+      {
+        "subject": "CN=DigiCert Trusted Root G4,OU=www.digicert.com,O=DigiCert Inc,C=US",
+        "issuer": "CN=DigiCert Assured ID Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US",
+        "valid_from": "2022-08-01T00:00:00+00:00",
+        "valid_to": "2031-11-09T23:59:59+00:00",
+        "currently_valid": true
+      },
+      {
+        "subject": "CN=DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1,O=DigiCert\\, Inc.,C=US",
+        "issuer": "CN=DigiCert Trusted Root G4,OU=www.digicert.com,O=DigiCert Inc,C=US",
+        "valid_from": "2025-05-07T00:00:00+00:00",
+        "valid_to": "2038-01-14T23:59:59+00:00",
+        "currently_valid": true
+      },
+      {
+        "subject": "CN=DigiCert SHA256 RSA4096 Timestamp Responder 2025 1,O=DigiCert\\, Inc.,C=US",
+        "issuer": "CN=DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1,O=DigiCert\\, Inc.,C=US",
+        "valid_from": "2025-06-04T00:00:00+00:00",
+        "valid_to": "2036-09-03T23:59:59+00:00",
+        "currently_valid": true
+      }
+    ],
+    "ca_verified": true
+  },
+  "baseline_chain_ok": true,
+  "n_events": 7,
+  "signed_chain_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+  "tamper_results": [
+    {
+      "tamper_type": "EDIT",
+      "detected": true,
+      "detected_by_hash_chain": true,
+      "detected_by_rfc3161_hash": true,
+      "chain_ok": false,
+      "chain_error": null,
+      "original_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "tampered_hash": "3fec7301ff4170c71ca6a6b6f42d4cf05871ebda185403bfaf14b82eb0ad14fb",
+      "hash_changed": true,
+      "n_events_original": 7,
+      "n_events_modified": 7
+    },
+    {
+      "tamper_type": "DELETE",
+      "detected": true,
+      "detected_by_hash_chain": true,
+      "detected_by_rfc3161_hash": true,
+      "chain_ok": false,
+      "chain_error": null,
+      "original_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "tampered_hash": "2a124217d6e811b74774084dfdbd34b34505ea346270f36d9b9c988eab5d5cf6",
+      "hash_changed": true,
+      "n_events_original": 7,
+      "n_events_modified": 6
+    },
+    {
+      "tamper_type": "REORDER",
+      "detected": true,
+      "detected_by_hash_chain": true,
+      "detected_by_rfc3161_hash": true,
+      "chain_ok": false,
+      "chain_error": null,
+      "original_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "tampered_hash": "934732aa0cac12b58bba527005867789f438266ad68942ab3b07ecbf9e2f8772",
+      "hash_changed": true,
+      "n_events_original": 7,
+      "n_events_modified": 7
+    },
+    {
+      "tamper_type": "REPLAY",
+      "detected": true,
+      "detected_by_hash_chain": true,
+      "detected_by_rfc3161_hash": true,
+      "chain_ok": false,
+      "chain_error": null,
+      "original_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "tampered_hash": "708fde11bd5afc091221e9e5f71cea83570d0e1249ce437b86f36d1b1b6b8f37",
+      "hash_changed": true,
+      "n_events_original": 7,
+      "n_events_modified": 8
+    },
+    {
+      "tamper_type": "REGENERATE",
+      "detected": true,
+      "detected_by_hash_chain": false,
+      "detected_by_rfc3161_hash": true,
+      "chain_ok": true,
+      "chain_error": null,
+      "original_hash": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "tampered_hash": "eeffd6c666f679614975224fcbd6ff91d022e84bab6935b4bc709c01d79c44fc",
+      "hash_changed": true,
+      "n_events_original": 7,
+      "n_events_modified": 7
+    }
+  ],
+  "summary": {
+    "n_tampers_tested": 5,
+    "n_detected_by_chain": 4,
+    "n_detected_by_rfc3161": 5,
+    "n_detected_total": 5,
+    "n_undetected": 0
+  }
+}

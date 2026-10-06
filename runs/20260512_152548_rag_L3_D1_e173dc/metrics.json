@@ -1,0 +1,17 @@
+{
+  "run_id": "20260512_152548_rag_L3_D1_e173dc",
+  "run_dir": "runs/20260512_152548_rag_L3_D1_e173dc",
+  "attack_id": "D1",
+  "attack_type": "direct",
+  "observability_level": 3,
+  "expected_malicious_chunk_id": null,
+  "reconstructed_attack_type": "direct",
+  "attributed_source": "user_query",
+  "attributed_chunk_id": null,
+  "evidence_completeness": 0.7142857142857143,
+  "attribution_accuracy": 1.0,
+  "reconstruction_fidelity": 0.7142857142857143,
+  "investigation_time_seconds": 0.0012210419990879018,
+  "storage_bytes": 9878,
+  "storage_overhead": 1.0
+}

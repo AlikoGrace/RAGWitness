@@ -1,0 +1,699 @@
+{
+  "status": "EXPORTED_AND_FIDELITY_VERIFIED",
+  "observations": 42,
+  "traces": 18,
+  "fidelity_checks": [
+    {
+      "trace_id": "89e5f0c095f868514de6dceae8d8d3fc",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "d266008077dd27257aab0614fa00eaa5",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "e18f7d25f5365d7a44ac8afc535b9fc8",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "1752be216cc5976bb67c9e83977ea6e8",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "667bea543e90c96c1e2007794e8fe01e",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "b80349ba20b68a7f8b1482f0e447c4a6",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "field": "modelParameters",
+      "ok": true
+    },
+    {
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "field": "root input/output",
+      "ok": true
+    },
+    {
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "field": "retrieval",
+      "ok": true
+    },
+    {
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "field": "generation",
+      "ok": true
+    },
+    {
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "field": "modelParameters",
+      "ok": true
+    }
+  ],
+  "scores": [
+    {
+      "case": "case-01",
+      "configuration": "bare",
+      "trace_id": "89e5f0c095f868514de6dceae8d8d3fc",
+      "coverage": {
+        "Q1": false,
+        "Q2": false,
+        "Q3": false,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": null,
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-01",
+      "configuration": "declared_spans",
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": null,
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-01",
+      "configuration": "enhanced_spans",
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": null,
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-02",
+      "configuration": "bare",
+      "trace_id": "d266008077dd27257aab0614fa00eaa5",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-02",
+      "configuration": "declared_spans",
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-02",
+      "configuration": "enhanced_spans",
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-03",
+      "configuration": "bare",
+      "trace_id": "e18f7d25f5365d7a44ac8afc535b9fc8",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-03",
+      "configuration": "declared_spans",
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-03",
+      "configuration": "enhanced_spans",
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-04",
+      "configuration": "bare",
+      "trace_id": "1752be216cc5976bb67c9e83977ea6e8",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-04",
+      "configuration": "declared_spans",
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-04",
+      "configuration": "enhanced_spans",
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": "user_query",
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-05",
+      "configuration": "bare",
+      "trace_id": "667bea543e90c96c1e2007794e8fe01e",
+      "coverage": {
+        "Q1": false,
+        "Q2": false,
+        "Q3": false,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": null,
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-05",
+      "configuration": "declared_spans",
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": "retrieved_chunk",
+      "attributed_chunk_id": "poison:I1:0"
+    },
+    {
+      "case": "case-05",
+      "configuration": "enhanced_spans",
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": "retrieved_chunk",
+      "attributed_chunk_id": "poison:I1:0"
+    },
+    {
+      "case": "case-06",
+      "configuration": "bare",
+      "trace_id": "b80349ba20b68a7f8b1482f0e447c4a6",
+      "coverage": {
+        "Q1": false,
+        "Q2": false,
+        "Q3": false,
+        "Q4": false,
+        "Q5": false,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": false,
+      "model_parameters_available": false,
+      "source": null,
+      "attributed_chunk_id": null
+    },
+    {
+      "case": "case-06",
+      "configuration": "declared_spans",
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": false,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": false,
+      "source": "retrieved_chunk",
+      "attributed_chunk_id": "poison:I3:0"
+    },
+    {
+      "case": "case-06",
+      "configuration": "enhanced_spans",
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "coverage": {
+        "Q1": true,
+        "Q2": true,
+        "Q3": true,
+        "Q4": true,
+        "Q5": true,
+        "Q6": true,
+        "Q7": false
+      },
+      "model_name_available": true,
+      "model_parameters_available": true,
+      "source": "retrieved_chunk",
+      "attributed_chunk_id": "poison:I3:0"
+    }
+  ],
+  "summary": {
+    "bare": {
+      "Q1": {
+        "answered": 3,
+        "total": 6
+      },
+      "Q2": {
+        "answered": 3,
+        "total": 6
+      },
+      "Q3": {
+        "answered": 3,
+        "total": 6
+      },
+      "Q4": {
+        "answered": 0,
+        "total": 6
+      },
+      "Q5": {
+        "answered": 0,
+        "total": 6
+      },
+      "Q6": {
+        "answered": 0,
+        "total": 6
+      },
+      "Q7": {
+        "answered": 0,
+        "total": 6
+      }
+    },
+    "declared_spans": {
+      "Q1": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q2": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q3": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q4": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q5": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q6": {
+        "answered": 0,
+        "total": 6
+      },
+      "Q7": {
+        "answered": 0,
+        "total": 6
+      }
+    },
+    "enhanced_spans": {
+      "Q1": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q2": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q3": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q4": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q5": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q6": {
+        "answered": 6,
+        "total": 6
+      },
+      "Q7": {
+        "answered": 0,
+        "total": 6
+      }
+    }
+  },
+  "scoring_scope": "Shared analyzer + identical trusted clean corpus access, not logger-alone attack detection. Q6 strict full prompt + model/temperature/top_p availability. Model-only availability reported separately. Q7 no native chain/anchor submitted or exported; no backend tampering test performed.",
+  "clean_corpus_sha256": "0524c5b86058267251078bb81d865b0794c47dce41c1ace4ff017823553c9d39",
+  "model_calls": 0,
+  "export_transformation": "Enhanced modelParameters.seed exported as string null; normalized to None only for semantic comparison. Raw exports remain unchanged."
+}

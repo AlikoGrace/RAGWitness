@@ -1,0 +1,9 @@
+{
+  "total_documents": 10,
+  "total_pages": 922,
+  "total_chunks": 872,
+  "avg_chunks_per_document": 87.2,
+  "avg_chunk_length_words": 509.3772935779817,
+  "chunk_size_words": 512,
+  "chunk_overlap_words": 50
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software if you use RAGWitness or its retained replication evidence."
+title: "RAGWitness: Forensic Observability for Retrieval-Augmented Generation Systems Under Prompt Injection Attacks"
+type: software
+version: "0.1.0-review"
+authors:
+  - family-names: Aliko
+    given-names: Grace
+  - family-names: Peasah
+    given-names: Kwame Ofosuhene
+  - family-names: Owusu-Agyeman
+    given-names: K.
+  - family-names: Banning
+    given-names: L. A.
+license: MIT

@@ -1,0 +1,9 @@
+{
+  "name": "case-06",
+  "input": {
+    "query": "What did Parliament say about education policy?"
+  },
+  "output": {
+    "answer": "I don't have enough evidence in the retrieved documents to answer that."
+  }
+}

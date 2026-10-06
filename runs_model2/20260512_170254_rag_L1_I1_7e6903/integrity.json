@@ -1,0 +1,8 @@
+{
+  "ts_utc": "2026-05-12T17:03:14.272508Z",
+  "run_id": "20260512_170254_rag_L1_I1_7e6903",
+  "event_count": 5,
+  "final_event_hash": "5b6bef08d73139f062c26433438bccb1fe08a219821baae23d79b64b28979649",
+  "events_jsonl_sha256": "df2c85c008ab008b33779c56855d725e1481a84da7dd1b803d75fb10744a352e",
+  "hash_chain": "prev_hash/event_hash per event (canonical json)"
+}

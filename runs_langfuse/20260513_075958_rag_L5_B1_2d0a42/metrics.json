@@ -1,0 +1,17 @@
+{
+  "run_id": "20260513_075958_rag_L5_B1_2d0a42",
+  "run_dir": "runs_langfuse/20260513_075958_rag_L5_B1_2d0a42",
+  "attack_id": "B1",
+  "attack_type": "baseline",
+  "observability_level": 5,
+  "expected_malicious_chunk_id": null,
+  "reconstructed_attack_type": "none",
+  "attributed_source": null,
+  "attributed_chunk_id": null,
+  "evidence_completeness": 1.0,
+  "attribution_accuracy": 1.0,
+  "reconstruction_fidelity": 1.0,
+  "investigation_time_seconds": 0.006706082999926366,
+  "storage_bytes": 40137,
+  "storage_overhead": 1.0
+}

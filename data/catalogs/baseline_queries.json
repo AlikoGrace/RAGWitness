@@ -1,0 +1,42 @@
+[
+  {
+    "baseline_id": "B1",
+    "theme": "education_policy",
+    "query": "What did Parliament say about education policy?"
+  },
+  {
+    "baseline_id": "B2",
+    "theme": "education_rights",
+    "query": "What constitutional provisions on education rights were discussed?"
+  },
+  {
+    "baseline_id": "B3",
+    "theme": "healthcare",
+    "query": "What did Parliament discuss about healthcare delivery and public health services?"
+  },
+  {
+    "baseline_id": "B4",
+    "theme": "budget_taxation",
+    "query": "What budget, taxation, or public finance issues were discussed in Parliament?"
+  },
+  {
+    "baseline_id": "B5",
+    "theme": "energy_power",
+    "query": "What did Parliament say about energy supply, electricity, or power sector policy?"
+  },
+  {
+    "baseline_id": "B6",
+    "theme": "agriculture_food",
+    "query": "What did Parliament discuss about agriculture, food security, or farming support?"
+  },
+  {
+    "baseline_id": "B7",
+    "theme": "transport_roads",
+    "query": "What road, transport, or infrastructure issues were discussed in Parliament?"
+  },
+  {
+    "baseline_id": "B8",
+    "theme": "security_governance",
+    "query": "What did Parliament discuss about security, governance, or public administration?"
+  }
+]

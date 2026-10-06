@@ -1,0 +1,187 @@
+{
+  "project": "RAGWitness-comparison",
+  "project_id": "cmuw7pb3t083gad0chg04i05i",
+  "host": "https://cloud.langfuse.com",
+  "region": "EU",
+  "server_ui_version": "4.51.0",
+  "transport": "OTLP/HTTP JSON (no SDK)",
+  "model_calls": 0,
+  "synthetic_zero_durations": true,
+  "from": "2026-10-06T05:05:16.506637+00:00",
+  "to": "2026-10-06T06:06:16.506637+00:00",
+  "traces": [
+    {
+      "case": "case-01",
+      "configuration": "bare",
+      "trace_id": "89e5f0c095f868514de6dceae8d8d3fc",
+      "name": "case-01-bare",
+      "payload_file": "case-01_bare.json"
+    },
+    {
+      "case": "case-01",
+      "configuration": "declared_spans",
+      "trace_id": "a520ba40abde6c774fedbd82ffb0b50e",
+      "name": "case-01-declared_spans",
+      "payload_file": "case-01_declared_spans.json"
+    },
+    {
+      "case": "case-01",
+      "configuration": "enhanced_spans",
+      "trace_id": "0f0b1a3263a6a8c33ee1c74273837edb",
+      "name": "case-01-enhanced_spans",
+      "payload_file": "case-01_enhanced_spans.json"
+    },
+    {
+      "case": "case-02",
+      "configuration": "bare",
+      "trace_id": "d266008077dd27257aab0614fa00eaa5",
+      "name": "case-02-bare",
+      "payload_file": "case-02_bare.json"
+    },
+    {
+      "case": "case-02",
+      "configuration": "declared_spans",
+      "trace_id": "0bd3e9c0c66fc9dd54ab9f1fa4bca177",
+      "name": "case-02-declared_spans",
+      "payload_file": "case-02_declared_spans.json"
+    },
+    {
+      "case": "case-02",
+      "configuration": "enhanced_spans",
+      "trace_id": "8f2d3bc7159ffe43681fb62c58badd3f",
+      "name": "case-02-enhanced_spans",
+      "payload_file": "case-02_enhanced_spans.json"
+    },
+    {
+      "case": "case-03",
+      "configuration": "bare",
+      "trace_id": "e18f7d25f5365d7a44ac8afc535b9fc8",
+      "name": "case-03-bare",
+      "payload_file": "case-03_bare.json"
+    },
+    {
+      "case": "case-03",
+      "configuration": "declared_spans",
+      "trace_id": "caa7c17865055e2d7e614b8285d78fec",
+      "name": "case-03-declared_spans",
+      "payload_file": "case-03_declared_spans.json"
+    },
+    {
+      "case": "case-03",
+      "configuration": "enhanced_spans",
+      "trace_id": "6221f64dade51135cc87fd6dc7e4c753",
+      "name": "case-03-enhanced_spans",
+      "payload_file": "case-03_enhanced_spans.json"
+    },
+    {
+      "case": "case-04",
+      "configuration": "bare",
+      "trace_id": "1752be216cc5976bb67c9e83977ea6e8",
+      "name": "case-04-bare",
+      "payload_file": "case-04_bare.json"
+    },
+    {
+      "case": "case-04",
+      "configuration": "declared_spans",
+      "trace_id": "51e2d63b22982af5d594c625856d591b",
+      "name": "case-04-declared_spans",
+      "payload_file": "case-04_declared_spans.json"
+    },
+    {
+      "case": "case-04",
+      "configuration": "enhanced_spans",
+      "trace_id": "418931a6ee15a9ccfac1774e6ab49913",
+      "name": "case-04-enhanced_spans",
+      "payload_file": "case-04_enhanced_spans.json"
+    },
+    {
+      "case": "case-05",
+      "configuration": "bare",
+      "trace_id": "667bea543e90c96c1e2007794e8fe01e",
+      "name": "case-05-bare",
+      "payload_file": "case-05_bare.json"
+    },
+    {
+      "case": "case-05",
+      "configuration": "declared_spans",
+      "trace_id": "0d571a9152907d00728432faf6be93fc",
+      "name": "case-05-declared_spans",
+      "payload_file": "case-05_declared_spans.json"
+    },
+    {
+      "case": "case-05",
+      "configuration": "enhanced_spans",
+      "trace_id": "a783cd33d0a55eb27a6c0c3f2510e090",
+      "name": "case-05-enhanced_spans",
+      "payload_file": "case-05_enhanced_spans.json"
+    },
+    {
+      "case": "case-06",
+      "configuration": "bare",
+      "trace_id": "b80349ba20b68a7f8b1482f0e447c4a6",
+      "name": "case-06-bare",
+      "payload_file": "case-06_bare.json"
+    },
+    {
+      "case": "case-06",
+      "configuration": "declared_spans",
+      "trace_id": "18a5ae018dbcb010a703ff368219026c",
+      "name": "case-06-declared_spans",
+      "payload_file": "case-06_declared_spans.json"
+    },
+    {
+      "case": "case-06",
+      "configuration": "enhanced_spans",
+      "trace_id": "7a74f8c88634c2c80196a1792dde8e1b",
+      "name": "case-06-enhanced_spans",
+      "payload_file": "case-06_enhanced_spans.json"
+    }
+  ],
+  "span_count": 42,
+  "ingestion_response": {
+    "name": "otel-ingestion-job",
+    "data": {
+      "id": "e7e8c68a-3cd5-4a12-a21b-c48f781ec4b0",
+      "timestamp": "2026-10-06T05:06:18.639Z",
+      "name": "otel-ingestion-job",
+      "payload": {
+        "data": {
+          "fileKey": "otel/cmuw7pb3t083gad0chg04i05i/2026/10/06/05/06/b002fa41-45a0-4a6a-9b08-f551d0bbcee4.json",
+          "publicKey": "REDACTED_PUBLIC_KEY"
+        },
+        "authCheck": {
+          "validKey": true,
+          "scope": {
+            "projectId": "cmuw7pb3t083gad0chg04i05i",
+            "accessLevel": "project",
+            "orgId": "cmuw7pb3m083cad0cezovcb83"
+          }
+        },
+        "sdkName": "unknown",
+        "sdkVersion": "unknown",
+        "ingestionVersion": "4"
+      }
+    },
+    "opts": {
+      "attempts": 6,
+      "removeOnComplete": true,
+      "removeOnFail": 100000,
+      "backoff": {
+        "type": "exponential",
+        "delay": 5000
+      },
+      "traceparent": "00-55faac7f7e657e4f3527263d164392ba-d32603c5fc8fd924-00",
+      "baggage": "langfuse.header.x-langfuse-ingestion-version=4,langfuse.clickhouse.surface=publicapi,langfuse.clickhouse.route=POST%20%2Fapi%2Fpublic%2Fotel%2Fv1%2Ftraces,langfuse.clickhouse.user_agent=Python-urllib%2F3.14,langfuse.project.id=cmuw7pb3t083gad0chg04i05i,langfuse.api_key.id=cmuw7ryr907voad0c0vtw2iau"
+    },
+    "id": "4573465330",
+    "progress": 0,
+    "returnvalue": null,
+    "stacktrace": null,
+    "priority": 0,
+    "attemptsStarted": 0,
+    "attemptsMade": 0,
+    "stalledCounter": 0,
+    "timestamp": 1791263178639,
+    "queueQualifiedName": "{otel-ingestion-queue}:otel-ingestion-queue"
+  }
+}

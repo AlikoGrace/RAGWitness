@@ -1,0 +1,213 @@
+{
+  "n_runs_tested": 90,
+  "config_masked_mismatches": 0,
+  "mismatch_details": [],
+  "finding_masked": "PASS \u2014 reconstruction is identical with and without config.json. Detection logic operates purely from events.jsonl.",
+  "confusion_by_level": {
+    "1": {
+      "accuracy": 0.7222,
+      "n_runs": 18,
+      "confusion_matrix": {
+        "direct": {
+          "direct": 5,
+          "indirect": 0,
+          "none": 0
+        },
+        "indirect": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 5
+        },
+        "none": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 8
+        }
+      },
+      "per_class": {
+        "direct": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "indirect": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "none": {
+          "precision": 0.6154,
+          "recall": 1.0,
+          "f1": 0.7619,
+          "support": 8
+        }
+      }
+    },
+    "2": {
+      "accuracy": 0.7222,
+      "n_runs": 18,
+      "confusion_matrix": {
+        "direct": {
+          "direct": 5,
+          "indirect": 0,
+          "none": 0
+        },
+        "indirect": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 5
+        },
+        "none": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 8
+        }
+      },
+      "per_class": {
+        "direct": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "indirect": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "none": {
+          "precision": 0.6154,
+          "recall": 1.0,
+          "f1": 0.7619,
+          "support": 8
+        }
+      }
+    },
+    "3": {
+      "accuracy": 0.9444,
+      "n_runs": 18,
+      "confusion_matrix": {
+        "direct": {
+          "direct": 5,
+          "indirect": 0,
+          "none": 0
+        },
+        "indirect": {
+          "direct": 0,
+          "indirect": 4,
+          "none": 1
+        },
+        "none": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 8
+        }
+      },
+      "per_class": {
+        "direct": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "indirect": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889,
+          "support": 5
+        },
+        "none": {
+          "precision": 0.8889,
+          "recall": 1.0,
+          "f1": 0.9412,
+          "support": 8
+        }
+      }
+    },
+    "4": {
+      "accuracy": 0.9444,
+      "n_runs": 18,
+      "confusion_matrix": {
+        "direct": {
+          "direct": 5,
+          "indirect": 0,
+          "none": 0
+        },
+        "indirect": {
+          "direct": 0,
+          "indirect": 4,
+          "none": 1
+        },
+        "none": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 8
+        }
+      },
+      "per_class": {
+        "direct": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "indirect": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889,
+          "support": 5
+        },
+        "none": {
+          "precision": 0.8889,
+          "recall": 1.0,
+          "f1": 0.9412,
+          "support": 8
+        }
+      }
+    },
+    "5": {
+      "accuracy": 0.9444,
+      "n_runs": 18,
+      "confusion_matrix": {
+        "direct": {
+          "direct": 5,
+          "indirect": 0,
+          "none": 0
+        },
+        "indirect": {
+          "direct": 0,
+          "indirect": 4,
+          "none": 1
+        },
+        "none": {
+          "direct": 0,
+          "indirect": 0,
+          "none": 8
+        }
+      },
+      "per_class": {
+        "direct": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "indirect": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1": 0.8889,
+          "support": 5
+        },
+        "none": {
+          "precision": 0.8889,
+          "recall": 1.0,
+          "f1": 0.9412,
+          "support": 8
+        }
+      }
+    }
+  }
+}

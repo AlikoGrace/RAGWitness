@@ -1,0 +1,16 @@
+{
+  "integrity": {
+    "ts_utc": "2026-05-13T07:36:09.865341Z",
+    "run_id": "20260513_073608_rag_L5_I3_cda12e",
+    "event_count": 7,
+    "final_event_hash": "fd30964d5622e8feab50ca1860a3398469b70ca6fd316556cf09200af85017a9",
+    "events_jsonl_sha256": "cea105e2a56bb9d890bcd3c597e42c2a79076dbbc4442b2b3c146e80a6a00121",
+    "hash_chain": "prev_hash/event_hash per event (canonical json)"
+  },
+  "verification": {
+    "ok": true,
+    "event_count": 7,
+    "errors": [],
+    "final_event_hash": "fd30964d5622e8feab50ca1860a3398469b70ca6fd316556cf09200af85017a9"
+  }
+}

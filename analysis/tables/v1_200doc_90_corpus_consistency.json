@@ -1,0 +1,62 @@
+{
+  "ok": true,
+  "runs_root": "runs_v1_200doc_90",
+  "run_count": 90,
+  "expected_runs": 90,
+  "checks": {
+    "expected_run_count": true,
+    "expected_corpus_version": true,
+    "identical_corpus_hash": true,
+    "identical_chroma_snapshot_path": true,
+    "identical_chroma_snapshot_hash": true,
+    "expected_attack_type_counts": true,
+    "expected_level_counts": true,
+    "hash_chains_ok": true
+  },
+  "failures": [],
+  "corpus_versions": [
+    "v1.0_200docs_15482chunks"
+  ],
+  "corpus_hashes": [
+    "ec7da7e652ad3919295ba1ddf5e797a3e0af6202bfe53cfefb5a4143ce513846"
+  ],
+  "chroma_snapshot_paths": [
+    "indexes/chroma_hansard"
+  ],
+  "chroma_snapshot_hashes": [
+    "45ffcec709c230d11d1b611089292ccc9ac245ae594c6585bbbc8fcb041fb9f0"
+  ],
+  "attack_type_counts": {
+    "direct": 25,
+    "indirect": 25,
+    "baseline": 40
+  },
+  "observability_level_counts": {
+    "1": 18,
+    "2": 18,
+    "3": 18,
+    "4": 18,
+    "5": 18
+  },
+  "scenario_counts": {
+    "direct:D1": 5,
+    "direct:D2": 5,
+    "direct:D3": 5,
+    "direct:D4": 5,
+    "direct:D5": 5,
+    "indirect:I1": 5,
+    "indirect:I2": 5,
+    "indirect:I3": 5,
+    "indirect:I4": 5,
+    "indirect:I5": 5,
+    "baseline:B1": 5,
+    "baseline:B2": 5,
+    "baseline:B3": 5,
+    "baseline:B4": 5,
+    "baseline:B5": 5,
+    "baseline:B6": 5,
+    "baseline:B7": 5,
+    "baseline:B8": 5
+  },
+  "hash_chain_failures": {}
+}

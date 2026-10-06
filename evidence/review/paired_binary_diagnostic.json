@@ -1,0 +1,7 @@
+{
+  "comparison": "AA L1 versus L2",
+  "improved_discordant_pairs": 4,
+  "worsened_discordant_pairs": 0,
+  "exact_paired_binary_two_sided_p": 0.125,
+  "interpretation": "Diagnostic exact McNemar/binomial calculation; not inserted into the manuscript or substituted for reported p-values. Selected-scenario structural gains do not establish population inference."
+}

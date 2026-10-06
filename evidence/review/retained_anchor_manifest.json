@@ -1,0 +1,87 @@
+{
+  "created_on": "2026-10-06",
+  "purpose": "Current audit retention baseline; not proof of historical independent custody",
+  "corpus_sha256": "ec7da7e652ad3919295ba1ddf5e797a3e0af6202bfe53cfefb5a4143ce513846",
+  "anchors": [
+    {
+      "run_id": "20260512_152614_rag_L5_D1_40c1c2",
+      "event_file_sha256": "812eb59f0e17e0ba3e78b5af316ccf0a0aaed3abf0cdc0664035e185698f6fb7",
+      "token_sha256": "04372585d4e11486e8aa3324ff72d932f47a8fec6e1d33d6a5755eda139b368b",
+      "token_time": "2026-05-12T17:05:23+00:00",
+      "verified": true,
+      "current_config_sha256": "a5293d2f50c46ec1cf27030f784729128348647ad95b0655c6c8f93299ad979a"
+    },
+    {
+      "run_id": "20260512_152629_rag_L5_D2_0588c6",
+      "event_file_sha256": "07b7c3c51a8ea82164adc78b2a350f5c30f9e1addff692e869b14d15e73600dd",
+      "token_sha256": "a8b658c6d0e9be30df0fe8873a6af194a6333b3f5ebef958269445694a8d01cb",
+      "token_time": "2026-05-12T17:05:24+00:00",
+      "verified": true,
+      "current_config_sha256": "5eed51fab4dc5c7ff2beed191256a70bd92154f8ce39a42ec1be2b4ed8e4a564"
+    },
+    {
+      "run_id": "20260512_152644_rag_L5_D3_c8d32f",
+      "event_file_sha256": "3e8094ba217549f7a9c62a47f6ccfa4a48d32adfe2bf686b0cae69e14ddb8dc0",
+      "token_sha256": "ae886a26284fc25954a4160f649d75b8cd9a25f2d8c2b5123fd4848845456ce7",
+      "token_time": "2026-05-12T17:05:25+00:00",
+      "verified": true,
+      "current_config_sha256": "786d1423b9a80f3d1af858583a84d9422161616a8c0273f4dfd1220a6d73e00e"
+    },
+    {
+      "run_id": "20260512_152656_rag_L5_D4_ad2ccd",
+      "event_file_sha256": "7b6a199153bd37a6fcee0b33bb402dbc0ce0e7e9b0b349ffbf8a9dd0de913f69",
+      "token_sha256": "ce8c5f9da6f20bac9e2c877a24acf50c49a8befe80251b1987a0ad5b04aca084",
+      "token_time": "2026-05-12T17:05:25+00:00",
+      "verified": true,
+      "current_config_sha256": "45df3e56e397dc4e12654736dec43937c86df64fe4f9d025a329552bdce0282b"
+    },
+    {
+      "run_id": "20260512_152726_rag_L5_D5_fbcb41",
+      "event_file_sha256": "2bc53748636740db6116ae26697f6361744c4523fa9636df3964d7b980276fd9",
+      "token_sha256": "c6187f63c702749e1864fda41684a3658734393d1d8964e326e8fb324f6e3567",
+      "token_time": "2026-05-12T17:05:26+00:00",
+      "verified": true,
+      "current_config_sha256": "da641c3a2c22c3ff99bc0f90982bf42ec8e3fc976a4631b3cc9c616fa437d636"
+    },
+    {
+      "run_id": "20260512_154624_rag_L5_I1_c66216",
+      "event_file_sha256": "819b0efa6576aa067fb7129a8d0fbd85e1d27adf773ddacd186c32a313d47879",
+      "token_sha256": "3f069259fb50bcabf6d9654041c7a8142220525f0ca3a7cc21438db19818b7e2",
+      "token_time": "2026-05-12T17:05:27+00:00",
+      "verified": true,
+      "current_config_sha256": "e510389ee7314581eb7fde53c8834b169d4688d34c00ac94e4af32b99e3cbe93"
+    },
+    {
+      "run_id": "20260512_154914_rag_L5_I2_df043e",
+      "event_file_sha256": "28bd9036b2879f93f77eccf26a2c4b635f0b242dc62a42a0931ee6677fb2598a",
+      "token_sha256": "38bc3df6949642fbd7a5de85562ca54f5b6c9c6688a83f024fbd21be77301ce5",
+      "token_time": "2026-05-12T17:05:27+00:00",
+      "verified": true,
+      "current_config_sha256": "e11ed04e7cf07df3a6816dd89ef2076b7e40f495b971ba2ce410067ac6cefaf6"
+    },
+    {
+      "run_id": "20260512_155233_rag_L5_I3_4d9a6d",
+      "event_file_sha256": "3050fa62bc395266e75712c2908f239415a1109cd3ada1391b2971709c39d3d6",
+      "token_sha256": "5c83b6ba8f869bdb972a449c89d73c0bfdf84e31de79dbd67413f1be5e34142c",
+      "token_time": "2026-05-12T17:05:28+00:00",
+      "verified": true,
+      "current_config_sha256": "246577839d9422a1196c40fad20eb329885fc37792cdb246f793cdc67773af18"
+    },
+    {
+      "run_id": "20260512_155640_rag_L5_B1_b7168d",
+      "event_file_sha256": "5f8d1cbe895a31fc894e22e3534a6591c97d04dbb01c83aa539c7664f9be0664",
+      "token_sha256": "586f8d29961415e8c752af2de5030927d7d1304fdd1fdf57ac4f75323b3751eb",
+      "token_time": "2026-05-12T17:05:29+00:00",
+      "verified": true,
+      "current_config_sha256": "7adf7e814a518772aa50769a36cfd1fc162abdb8f789e32cf5928810f31dc228"
+    },
+    {
+      "run_id": "20260512_155649_rag_L5_I4_6dffb1",
+      "event_file_sha256": "1777377c404fe9872a899cdb91d305e21305107838e59c83634658eb5f29258d",
+      "token_sha256": "da3b4ebf4b68319e454876792aa8ee7a40fb7f18a95129464e81e3e34ba5fced",
+      "token_time": "2026-05-12T17:05:29+00:00",
+      "verified": true,
+      "current_config_sha256": "4c6fb265bd4ef041ff87690fc024fbdf844cf3e53473a8308dd5d92e89d55eed"
+    }
+  ]
+}

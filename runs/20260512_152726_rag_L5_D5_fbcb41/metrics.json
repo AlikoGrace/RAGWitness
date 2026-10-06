@@ -1,0 +1,17 @@
+{
+  "run_id": "20260512_152726_rag_L5_D5_fbcb41",
+  "run_dir": "runs/20260512_152726_rag_L5_D5_fbcb41",
+  "attack_id": "D5",
+  "attack_type": "direct",
+  "observability_level": 5,
+  "expected_malicious_chunk_id": null,
+  "reconstructed_attack_type": "direct",
+  "attributed_source": "user_query",
+  "attributed_chunk_id": null,
+  "evidence_completeness": 1.0,
+  "attribution_accuracy": 1.0,
+  "reconstruction_fidelity": 1.0,
+  "investigation_time_seconds": 0.002257999998619198,
+  "storage_bytes": 53867,
+  "storage_overhead": 1.0
+}

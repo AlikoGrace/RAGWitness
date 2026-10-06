@@ -1,0 +1,14 @@
+{
+  "drop_final_event": {
+    "ok": true,
+    "event_count": 6,
+    "errors": [],
+    "final_event_hash": "c96f1ef278bbacce1132dcd03c3efd87293d72569a1d8359505e6048dcfa2266"
+  },
+  "empty_log": {
+    "ok": true,
+    "event_count": 0,
+    "errors": [],
+    "final_event_hash": "0000000000000000000000000000000000000000000000000000000000000000"
+  }
+}

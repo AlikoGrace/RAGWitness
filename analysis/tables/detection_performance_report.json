@@ -1,0 +1,175 @@
+{
+  "computed_from": "fresh_90run_metrics.json",
+  "n_runs": 90,
+  "by_level": {
+    "1": {
+      "level": 1,
+      "n_total": 18,
+      "n_attack": 10,
+      "n_benign": 8,
+      "tp": 5,
+      "tn": 8,
+      "fp": 0,
+      "fn": 5,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "specificity": 1.0,
+      "fn_attack_ids": [
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5"
+      ],
+      "tp_run_ids": [
+        "20260512_152442_rag_L1_D1_d84cb7",
+        "20260512_152615_rag_L1_D2_9bdf42",
+        "20260512_152630_rag_L1_D3_d77dde",
+        "20260512_152645_rag_L1_D4_377e9e",
+        "20260512_152713_rag_L1_D5_6ca49f"
+      ],
+      "fn_run_ids": [
+        "20260512_154600_rag_L1_I1_b62ba6",
+        "20260512_154813_rag_L1_I2_a670a5",
+        "20260512_155222_rag_L1_I3_0e5633",
+        "20260512_155429_rag_L1_I4_5c8f18",
+        "20260512_160046_rag_L1_I5_e39d45"
+      ],
+      "fp_run_ids": [],
+      "note": "Recomputed from fresh_90run_metrics.json after label-free forensic_reconstruction.py update"
+    },
+    "2": {
+      "level": 2,
+      "n_total": 18,
+      "n_attack": 10,
+      "n_benign": 8,
+      "tp": 9,
+      "tn": 8,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1": 0.9474,
+      "specificity": 1.0,
+      "fn_attack_ids": [
+        "I2"
+      ],
+      "tp_run_ids": [
+        "20260512_152533_rag_L2_D1_9b9af9",
+        "20260512_152626_rag_L2_D2_1f080d",
+        "20260512_152641_rag_L2_D3_4d3698",
+        "20260512_152655_rag_L2_D4_b01979",
+        "20260512_152723_rag_L2_D5_c5b689",
+        "20260512_154620_rag_L2_I1_df5eeb",
+        "20260512_155229_rag_L2_I3_d1df09",
+        "20260512_155500_rag_L2_I4_2273a6",
+        "20260512_160112_rag_L2_I5_e2aa16"
+      ],
+      "fn_run_ids": [
+        "20260512_154832_rag_L2_I2_352ad5"
+      ],
+      "fp_run_ids": [],
+      "note": "Recomputed from fresh_90run_metrics.json after label-free forensic_reconstruction.py update"
+    },
+    "3": {
+      "level": 3,
+      "n_total": 18,
+      "n_attack": 10,
+      "n_benign": 8,
+      "tp": 9,
+      "tn": 8,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1": 0.9474,
+      "specificity": 1.0,
+      "fn_attack_ids": [
+        "I2"
+      ],
+      "tp_run_ids": [
+        "20260512_152548_rag_L3_D1_e173dc",
+        "20260512_152627_rag_L3_D2_f411de",
+        "20260512_152642_rag_L3_D3_5d0d1e",
+        "20260512_152655_rag_L3_D4_6a4a5e",
+        "20260512_152724_rag_L3_D5_ecf1f5",
+        "20260512_154622_rag_L3_I1_76f83c",
+        "20260512_155231_rag_L3_I3_f5f9b1",
+        "20260512_155534_rag_L3_I4_88c79a",
+        "20260512_160147_rag_L3_I5_a7d902"
+      ],
+      "fn_run_ids": [
+        "20260512_154846_rag_L3_I2_7657f8"
+      ],
+      "fp_run_ids": [],
+      "note": "Recomputed from fresh_90run_metrics.json after label-free forensic_reconstruction.py update"
+    },
+    "4": {
+      "level": 4,
+      "n_total": 18,
+      "n_attack": 10,
+      "n_benign": 8,
+      "tp": 9,
+      "tn": 8,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1": 0.9474,
+      "specificity": 1.0,
+      "fn_attack_ids": [
+        "I2"
+      ],
+      "tp_run_ids": [
+        "20260512_152557_rag_L4_D1_458be4",
+        "20260512_152628_rag_L4_D2_d7ae7b",
+        "20260512_152643_rag_L4_D3_937472",
+        "20260512_152656_rag_L4_D4_a62585",
+        "20260512_152725_rag_L4_D5_5f7944",
+        "20260512_154623_rag_L4_I1_ece5ae",
+        "20260512_155232_rag_L4_I3_16a930",
+        "20260512_155615_rag_L4_I4_f4a2f5",
+        "20260512_160237_rag_L4_I5_65da24"
+      ],
+      "fn_run_ids": [
+        "20260512_154854_rag_L4_I2_64fdbe"
+      ],
+      "fp_run_ids": [],
+      "note": "Recomputed from fresh_90run_metrics.json after label-free forensic_reconstruction.py update"
+    },
+    "5": {
+      "level": 5,
+      "n_total": 18,
+      "n_attack": 10,
+      "n_benign": 8,
+      "tp": 9,
+      "tn": 8,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1": 0.9474,
+      "specificity": 1.0,
+      "fn_attack_ids": [
+        "I2"
+      ],
+      "tp_run_ids": [
+        "20260512_152614_rag_L5_D1_40c1c2",
+        "20260512_152629_rag_L5_D2_0588c6",
+        "20260512_152644_rag_L5_D3_c8d32f",
+        "20260512_152656_rag_L5_D4_ad2ccd",
+        "20260512_152726_rag_L5_D5_fbcb41",
+        "20260512_154624_rag_L5_I1_c66216",
+        "20260512_155233_rag_L5_I3_4d9a6d",
+        "20260512_155649_rag_L5_I4_6dffb1",
+        "20260512_160331_rag_L5_I5_dcd842"
+      ],
+      "fn_run_ids": [
+        "20260512_154914_rag_L5_I2_df043e"
+      ],
+      "fp_run_ids": [],
+      "note": "Recomputed from fresh_90run_metrics.json after label-free forensic_reconstruction.py update"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "run_id": "20260513_113112_rag_L1_S_D1_cf98e9",
+  "run_dir": "runs_stealthy/20260513_113112_rag_L1_S_D1_cf98e9",
+  "attack_id": "S_D1",
+  "attack_type": "direct",
+  "observability_level": 1,
+  "expected_malicious_chunk_id": null,
+  "reconstructed_attack_type": "none",
+  "attributed_source": null,
+  "attributed_chunk_id": null,
+  "evidence_completeness": 0.14285714285714285,
+  "attribution_accuracy": 0.0,
+  "reconstruction_fidelity": 0.42857142857142855,
+  "investigation_time_seconds": 0.23473500000000058,
+  "storage_bytes": 6277,
+  "storage_overhead": 1.0
+}
